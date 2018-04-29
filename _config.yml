@@ -1,0 +1,10 @@
+title: Visual Learning and Embodied Agents in Simulation Environments
+email: samyak@gatech.edu
+description: Website for the Workshop on Visual Learning and Embodied Agents in Simulation Environments at ECCV 2018 (Munich, Germany)
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: UA-110470966-1
