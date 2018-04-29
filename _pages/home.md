@@ -210,7 +210,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/devi.png" | prepend:site.baseurl }}">
-    <p><b>Devi Parikh</b> (<b>Alt: Dhruv Batra</b>) is an Assistant Professor in the School of Interactive Computing at Georgia Tech and a Visiting Researcher at Facebook AI Research (FAIR). From 2013 to 2016 she was an Assistant Professor in the Bradley Department of Electrical and Computer Engineering at Virginia Tech. From 2009 to 2012 she was a Research Assistant Professor at Toyota Technological Institute at Chicago (TTIC). &nbsp;
+    <p><b>Devi Parikh</b> is an Assistant Professor in the School of Interactive Computing at Georgia Tech and a Visiting Researcher at Facebook AI Research (FAIR). From 2013 to 2016 she was an Assistant Professor in the Bradley Department of Electrical and Computer Engineering at Virginia Tech. From 2009 to 2012 she was a Research Assistant Professor at Toyota Technological Institute at Chicago (TTIC). &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.cc.gatech.edu/~parikh/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -241,17 +241,17 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/matthias.png" | prepend:site.baseurl }}">
-    <p><b>Matthias Nießner</b> (<b>Alt: Anton van den Hengel</b>) is heading the Visual Computing Lab at Technical University of Munich (TUM). He was a Visiting Assistant Professor at Stanford University from 2013 to 2017. Since 2017 he is Professor at TUM, where he is focusing on static and dynamic 3D reconstruction approaches with a strong focus on modern machine learning and optimization techniques. &nbsp;
-    <span style="color:#1a1aff;font-weight:400;">[<a href="http://niessnerlab.org/index.html">Webpage</a>]</span></p>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/anton.png" | prepend:site.baseurl }}">
+    <p><b>Anton van den Hengel</b> is currently a Professor in the Scool of Computer Science at the University of Adelaide, the Director of the Australian Centre for Visual Techonolgies, and a Program Leader in The Data to Decisions (D2D) CRC. He has worked in a variety of research areas within Computer Vision including Parameter Estimation, Machine Learning, Video Surveillance and Interactive Image-based Modelling. &nbsp;
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://cs.adelaide.edu.au/users/hengel/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/sanja.png" | prepend:site.baseurl }}">
-    <p><b>Sanja Fidler</b> (<b>Alt: Raquel Urtasun</b>) is an Assistant Professor at University of Toronto. Her main research interests are 2D and 3D object detection, particularly scalable multi-class detection, object segmentation and image labeling, and (3D) scene understanding. She is also interested in the interplay between language and vision. &nbsp;
-    <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.utoronto.ca/~fidler/">Webpage</a>] </span></p>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/raquel.png" | prepend:site.baseurl }}">
+    <p><b>Raquel Urtasun</b> is the Head of Uber ATG Toronto. She is also an Associate Professor in the Department of Computer Science at the University of Toronto, a Canada Research Chair in Machine Learning and Computer Vision and a co-founder of the Vector Institute for AI. Prior to this, she was an Assistant Professor at the Toyota Technological Institute at Chicago (TTIC) &nbsp;
+    <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.toronto.edu/~urtasun/">Webpage</a>] </span></p>
   </div>
 </div><br>
 
@@ -273,9 +273,9 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row"  id="organizers">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/boqing.png" | prepend:site.baseurl }}">
-    <p><b>Boqing Gong</b> (<b>Alt: Peter Welinder</b>) is an Assistant Professor in Computer Science and CRCV (Center for Research in Computer Vision) at the University of Central Florida (UCF). His research lies at the intersection of machine learning and computer vision, and has been focusing on domain adaptation, zero-shot/transfer learning, and visual analytics of objects, scenes, attributes, and human activities. &nbsp;
-    <span style="color:#1a1aff;font-weight:400;">[<a href="http://boqinggong.info/">Webpage</a>]</span></p>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/peterw.png" | prepend:site.baseurl }}">
+    <p><b>Peter Welinder</b> is a reasearch scientist at OpenAI. He works on topics ranging from deep reinforcement learning and computer vision to robotics software/hardware and simulation/rendering.&nbsp;
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.linkedin.com/in/welinder/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
