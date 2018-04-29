@@ -193,7 +193,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jitendra.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jitendra.png" | prepend:site.baseurl }}">
     <p><b>Jitendra Malik</b> is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. His research group has worked on many different topics in computer vision, computational modeling of human vision and computer graphics. Several well-known concepts and algorithms arose in this research, such as normalized cuts, high dynamic range imaging and R-CNN. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://people.eecs.berkeley.edu/~malik/">Webpage</a>]</span></p>
   </div>
@@ -201,7 +201,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/vladlen.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/vladlen.png" | prepend:site.baseurl }}">
     <p><b>Vladlen Koltun</b> is a Senior Principal Researcher and the director of the Intelligent Systems Lab at Intel. The lab is devoted to high-impact basic research on intelligent systems. He has published primarily in computer vision, machine learning, robotics, and graphics conferences. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://vladlen.info/">Webpage]</a></span></p>
   </div>
@@ -217,7 +217,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/raia.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/raia.png" | prepend:site.baseurl }}">
     <p><b>Raia Hadsell</b> is a research scientist on the Deep Learning team at DeepMind. She completed her PhD with Yann LeCun, at NYU, focused on machine learning using Siamese neural nets and on deep learning for mobile robots in the wild. Her thesis, 'Learning Long-range vision for offroad robots', was awarded the Outstanding Dissertation award in 2009. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://raiahadsell.com/index.html">Webpage</a>]</span></p>
   </div>
@@ -225,7 +225,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/lawson.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/lawson.png" | prepend:site.baseurl }}">
     <p><b>Lawson Wong</b> is a postdoctoral fellow at Brown University, working with Stefanie Tellex. He completed his Ph.D. in 2016 at the Massachusetts Institute of Technology, advised by Leslie Pack Kaelbling and Tomás Lozano-Pérez. His current research focuses on acquiring, representing, and estimating knowledge about the world that an autonomous robot may find useful. He was awarded a AAAI Robotics Student Fellowship in 2015. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://cs.brown.edu/~lwong5/">Webpage</a>]</span></p>
   </div>
@@ -233,7 +233,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/abhinav.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/abhinav.png" | prepend:site.baseurl }}">
     <p><b>Abhinav Gupta</b> is an assistant professor at Carnegie Mellon University. Prior to this, he was a post-doctoral fellow here working with Alyosha Efros and Martial Hebert. His research focuses on developing representation and reasoning approaches for deeper understanding of the scene, how linguistic information can be harnessed to efficiently learn how the world works and how are actions and objects related to each other. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.cmu.edu/~abhinavg/">Webpage</a>]</span></p>
   </div>
@@ -241,7 +241,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/matthias.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/matthias.png" | prepend:site.baseurl }}">
     <p><b>Matthias Nießner</b> (<b>Alt: Anton van den Hengel</b>) is heading the Visual Computing Lab at Technical University of Munich (TUM). He was a Visiting Assistant Professor at Stanford University from 2013 to 2017. Since 2017 he is Professor at TUM, where he is focusing on static and dynamic 3D reconstruction approaches with a strong focus on modern machine learning and optimization techniques. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://niessnerlab.org/index.html">Webpage</a>]</span></p>
   </div>
@@ -249,7 +249,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/sanja.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/sanja.png" | prepend:site.baseurl }}">
     <p><b>Sanja Fidler</b> (<b>Alt: Raquel Urtasun</b>) is an Assistant Professor at University of Toronto. Her main research interests are 2D and 3D object detection, particularly scalable multi-class detection, object segmentation and image labeling, and (3D) scene understanding. She is also interested in the interplay between language and vision. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.utoronto.ca/~fidler/">Webpage</a>] </span></p>
   </div>
@@ -257,7 +257,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/dieter.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/dieter.png" | prepend:site.baseurl }}">
     <p><b>Dieter Fox</b> is a Professor in the Department of Computer Science and Engineering at the University of Washington. His research interests are in robotics, artificial intelligence, and state estimation. He is the head of the UW Robotics and State Estimation Lab RSE-Lab and currently serves as the academic PI of the Intel Science and Technology Center for Pervasive Computing ISTC-PC. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://homes.cs.washington.edu/~fox/">Webpage</a>]</span></p>
   </div>
@@ -265,7 +265,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/alan.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/alan.png" | prepend:site.baseurl }}">
     <p><b>Alan Yuille</b> is a Bloomberg Distinguished Professor of Cognitive Science and Computer Science at Johns Hopkins University. He directs the research group on Compositional Cognition, Vision, and Learning. He is affiliated with  the Center for Brains, Minds and Machines, and the NSF Expedition in Computing, Visual Cortex On Silicon. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.jhu.edu/~ayuille/">Webpage</a>]</span></p>
   </div>
@@ -273,7 +273,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row"  id="organizers">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/boqing.jpg" | prepend:site.baseurl }}">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/boqing.png" | prepend:site.baseurl }}">
     <p><b>Boqing Gong</b> (<b>Alt: Peter Welinder</b>) is an Assistant Professor in Computer Science and CRCV (Center for Research in Computer Vision) at the University of Central Florida (UCF). His research lies at the intersection of machine learning and computer vision, and has been focusing on domain adaptation, zero-shot/transfer learning, and visual analytics of objects, scenes, attributes, and human activities. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://boqinggong.info/">Webpage</a>]</span></p>
   </div>
@@ -289,7 +289,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-xs-2">
     <a href="http://www.panderson.me/">
-      <img class="people-pic" src="{{ "/static/img/people/peter.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/peter.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://www.panderson.me/">Peter Anderson</a>
@@ -299,7 +299,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
   <div class="col-xs-2">
     <a href="http://msavva.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/manolis.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/manolis.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://msavva.github.io/">Manolis Savva</a>
@@ -309,7 +309,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   
   <div class="col-xs-2">
     <a href="https://angelxuanchang.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/angel.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/angel.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://angelxuanchang.github.io/">Angel X. Chang</a>
@@ -319,7 +319,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   
   <div class="col-xs-2">
     <a href="https://people.eecs.berkeley.edu/~sgupta/">
-      <img class="people-pic" src="{{ "/static/img/people/saurabh.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/saurabh.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://people.eecs.berkeley.edu/~sgupta/">Saurabh Gupta</a>
@@ -329,7 +329,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
   <div class="col-xs-2">
     <a href="https://cs.stanford.edu/~amirz/">
-      <img class="people-pic" src="{{ "/static/img/people/amir.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/amir.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://cs.stanford.edu/~amirz/">Amir R. Zamir</a>
@@ -339,7 +339,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
   <div class="col-xs-2">
     <a href="https://www.cc.gatech.edu/~slee3191/">
-      <img class="people-pic" src="{{ "/static/img/people/stefan.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/stefan.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>
@@ -351,7 +351,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-xs-2">
     <a href="https://samyak-268.github.io">
-      <img class="people-pic" src="{{ "/static/img/people/samyak.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/samyak.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://samyak-268.github.io">Samyak Datta</a>
@@ -361,7 +361,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
   <div class="col-xs-2">
     <a href="https://cs.stanford.edu/~ericyi/">
-      <img class="people-pic" src="{{ "/static/img/people/li.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/li.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://cs.stanford.edu/~ericyi/">Li Yi</a>
@@ -371,7 +371,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   
   <div class="col-xs-2">
     <a href="http://cseweb.ucsd.edu/~haosu/">
-      <img class="people-pic" src="{{ "/static/img/people/hao.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/hao.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://cseweb.ucsd.edu/~haosu/">Hao Su</a>
@@ -381,7 +381,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   
   <div class="col-xs-2">
     <a href="https://www.cs.utexas.edu/~huangqx/">
-      <img class="people-pic" src="{{ "/static/img/people/qixing.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/qixing.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.cs.utexas.edu/~huangqx/">Qixing Huang</a>
@@ -391,7 +391,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
   <div class="col-xs-2" id="sponsors">
     <a href="https://geometry.stanford.edu/member/guibas/">
-      <img class="people-pic" src="{{ "/static/img/people/leonidas.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/leonidas.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibus</a>
