@@ -225,7 +225,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jitendra.png" | prepend:site.baseurl }}">
-    <p><b>Jitendra Malik</b> is the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. His research group has worked on many different topics in computer vision, computational modeling of human vision and computer graphics. Several well-known concepts and algorithms arose in this research, such as normalized cuts, high dynamic range imaging and R-CNN. He has mentored more than 50 PhD students and postdoctoral fellows. &nbsp;
+    <p><b>Jitendra Malik</b> is the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley. His research group has worked on many different topics in computer vision, computational modeling of human vision and computer graphics. Several well-known concepts and algorithms arose in this research, such as normalized cuts, high dynamic range imaging and R-CNN. He has mentored more than 50 PhD students and postdoctoral fellows. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://people.eecs.berkeley.edu/~malik/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -273,7 +273,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/anton.png" | prepend:site.baseurl }}">
-    <p><b>Anton van den Hengel</b> is a Professor in the School of Computer Science at the University of Adelaide in Australia, the founding Director of the The Australian Centre for Visual Technologies (ACVT), a Chief Investigator of the Australian Centre for Robotic Vision and a Program Leader in the Data 2 Decisions Cooperative Research Centre. He has won best paper at CVPR, published over 300 publications, had eight patents commercialized and founded two startups. &nbsp;
+    <p><b>Anton van den Hengel</b> is a Professor in the School of Computer Science at the University of Adelaide in Australia, the founding Director of the Australian Centre for Visual Technologies (ACVT), a Chief Investigator of the Australian Centre for Robotic Vision and a Program Leader in the Data 2 Decisions Cooperative Research Centre. He has won best paper at CVPR, published over 300 publications, had eight patents commercialized and founded two startups. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://cs.adelaide.edu.au/users/hengel/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -305,7 +305,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row"  id="organizers">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/peterw.png" | prepend:site.baseurl }}">
-    <p><b>Peter Welinder</b> is a reasearch scientist at OpenAI. He works on topics ranging from deep reinforcement learning and computer vision to robotics software/hardware and simulation/rendering. Previously he founded and managed the Machine Learning Team at Dropbox. &nbsp;
+    <p><b>Peter Welinder</b> is a research scientist at OpenAI. He works on topics ranging from deep reinforcement learning and computer vision to robotics software/hardware and simulation/rendering. Previously he founded and managed the Machine Learning Team at Dropbox. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.linkedin.com/in/welinder/">Webpage</a>]</span></p>
   </div>
 </div><br>
