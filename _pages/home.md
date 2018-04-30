@@ -73,7 +73,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>Call for papers and demos</h2>
+    <h2>Call for Papers and Demos</h2>
   </div>
 </div>
 <div class="row">
