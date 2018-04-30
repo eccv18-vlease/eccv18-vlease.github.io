@@ -194,7 +194,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jitendra.png" | prepend:site.baseurl }}">
-    <p><b>Jitendra Malik</b> is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. His research group has worked on many different topics in computer vision, computational modeling of human vision and computer graphics. Several well-known concepts and algorithms arose in this research, such as normalized cuts, high dynamic range imaging and R-CNN. &nbsp;
+    <p><b>Jitendra Malik</b> is the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. His research group has worked on many different topics in computer vision, computational modeling of human vision and computer graphics. Several well-known concepts and algorithms arose in this research, such as normalized cuts, high dynamic range imaging and R-CNN. He has mentored more than 50 PhD students and postdoctoral fellows. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://people.eecs.berkeley.edu/~malik/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -202,15 +202,15 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/vladlen.png" | prepend:site.baseurl }}">
-    <p><b>Vladlen Koltun</b> is a Senior Principal Researcher and the director of the Intelligent Systems Lab at Intel. The lab is devoted to high-impact basic research on intelligent systems. He has published primarily in computer vision, machine learning, robotics, and graphics conferences. &nbsp;
+    <p><b>Vladlen Koltun</b> is a Senior Principal Researcher and the director of the Intelligent Systems Lab at Intel. The lab is devoted to high-impact basic research on intelligent systems. Previously, he has been a Senior Research Scientist at Adobe Research and an Assistant Professor at Stanford where his theoretical research was recognized with the National Science Foundation (NSF) CAREER Award (2006) and the Sloan Research Fellowship (2007). &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://vladlen.info/">Webpage]</a></span></p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/devi.png" | prepend:site.baseurl }}">
-    <p><b>Devi Parikh</b> is an Assistant Professor in the School of Interactive Computing at Georgia Tech and a Visiting Researcher at Facebook AI Research (FAIR). From 2013 to 2016 she was an Assistant Professor in the Bradley Department of Electrical and Computer Engineering at Virginia Tech. From 2009 to 2012 she was a Research Assistant Professor at Toyota Technological Institute at Chicago (TTIC). &nbsp;
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/dhruv.png" | prepend:site.baseurl }}">
+    <p><b>Dhruv Batra</b> is an Assistant Professor in the School of Interactive Computing at Georgia Tech and a Research Scientist at Facebook AI Research (FAIR). His research interests lie at the intersection of machine learning, computer vision, natural language processing, and AI. He is a recipient of numerous awards including the Office of Naval Research (ONR) Young Investigator Program (YIP) award (2016), two Google Faculty Research Awards (2013, 2015) and the Amazon Academic Research award (2016). &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.cc.gatech.edu/~parikh/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -218,7 +218,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/raia.png" | prepend:site.baseurl }}">
-    <p><b>Raia Hadsell</b> is a research scientist on the Deep Learning team at DeepMind. She completed her PhD with Yann LeCun, at NYU, focused on machine learning using Siamese neural nets and on deep learning for mobile robots in the wild. Her thesis, 'Learning Long-range vision for offroad robots', was awarded the Outstanding Dissertation award in 2009. &nbsp;
+    <p><b>Raia Hadsell</b>, a senior research scientist at DeepMind, has worked on deep learning and robotics problems for over 10 years. After completing a PhD with Yann LeCun at NYU, her research continued at Carnegie Mellon's Robotics Institute and SRI International, and in early 2014 she joined DeepMind in London to study artificial general intelligence. Her current research focuses on the challenge of continual learning for AI agents and robotic systems. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://raiahadsell.com/index.html">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -234,7 +234,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/abhinav.png" | prepend:site.baseurl }}">
-    <p><b>Abhinav Gupta</b> is an assistant professor at Carnegie Mellon University. Prior to this, he was a post-doctoral fellow here working with Alyosha Efros and Martial Hebert. His research focuses on developing representation and reasoning approaches for deeper understanding of the scene, how linguistic information can be harnessed to efficiently learn how the world works and how are actions and objects related to each other. &nbsp;
+    <p><b>Abhinav Gupta</b> is an Assistant Professor in the Robotics Institute at Carnegie Mellon University (CMU). Prior to this, he was a post-doctoral fellow at CMU working with Alyosha Efros and Martial Hebert. His research interests include developing representations of the visual world, linking language and vision, and the relationships between objects and actions. He is a recipient of the PAMI Young Researcher award, the Bosch Young Faculty Fellowship and a Google Faculty Research Award. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.cmu.edu/~abhinavg/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -242,7 +242,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/anton.png" | prepend:site.baseurl }}">
-    <p><b>Anton van den Hengel</b> is currently a Professor in the Scool of Computer Science at the University of Adelaide, the Director of the Australian Centre for Visual Techonolgies, and a Program Leader in The Data to Decisions (D2D) CRC. He has worked in a variety of research areas within Computer Vision including Parameter Estimation, Machine Learning, Video Surveillance and Interactive Image-based Modelling. &nbsp;
+    <p><b>Anton van den Hengel</b> Anton van den Hengel is a Professor in the School of Computer Science at the University of Adelaide in Australia, the founding Director of the The Australian Centre for Visual Technologies (ACVT), a Chief Investigator of the Australian Centre for Robotic Vision and a Program Leader in the Data 2 Decisions Cooperative Research Centre. He has won best paper at CVPR, published over 300 publications, had eight patents commercialized and founded two startups. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://cs.adelaide.edu.au/users/hengel/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -250,7 +250,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/raquel.png" | prepend:site.baseurl }}">
-    <p><b>Raquel Urtasun</b> is the Head of Uber ATG Toronto. She is also an Associate Professor in the Department of Computer Science at the University of Toronto, a Canada Research Chair in Machine Learning and Computer Vision and a co-founder of the Vector Institute for AI. Prior to this, she was an Assistant Professor at the Toyota Technological Institute at Chicago (TTIC) &nbsp;
+    <p><b>Raquel Urtasun</b> is the Head of Uber ATG Toronto. She is also an Associate Professor in the Department of Computer Science at the University of Toronto, a Canada Research Chair in Machine Learning and Computer Vision and a co-founder of the Vector Institute for AI. Prior to this, she was an Assistant Professor at the Toyota Technological Institute at Chicago (TTIC). Her research interests include machine learning, computer vision, robotics and remote sensing. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.toronto.edu/~urtasun/">Webpage</a>] </span></p>
   </div>
 </div><br>
@@ -258,7 +258,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/dieter.png" | prepend:site.baseurl }}">
-    <p><b>Dieter Fox</b> is a Professor in the Department of Computer Science and Engineering at the University of Washington. His research interests are in robotics, artificial intelligence, and state estimation. He is the head of the UW Robotics and State Estimation Lab RSE-Lab and currently serves as the academic PI of the Intel Science and Technology Center for Pervasive Computing ISTC-PC. &nbsp;
+    <p><b>Dieter Fox</b> is a Professor in the Department of Computer Science and Engineering at the University of Washington and also affiliated with Nvidia Research. His research interests are in robotics, artificial intelligence, and state estimation. The goal of his research is to enable systems to interact with people and their environment in an intelligent way. He is the head of the UW Robotics and State Estimation Lab RSE-Lab and the academic PI of the Intel Science and Technology Center for Pervasive Computing ISTC-PC. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://homes.cs.washington.edu/~fox/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -266,7 +266,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/alan.png" | prepend:site.baseurl }}">
-    <p><b>Alan Yuille</b> is a Bloomberg Distinguished Professor of Cognitive Science and Computer Science at Johns Hopkins University. He directs the research group on Compositional Cognition, Vision, and Learning. He is affiliated with  the Center for Brains, Minds and Machines, and the NSF Expedition in Computing, Visual Cortex On Silicon. &nbsp;
+    <p><b>Alan Yuille</b> is a Bloomberg Distinguished Professor of Cognitive Science and Computer Science at Johns Hopkins University. He directs the research group on Compositional Cognition, Vision, and Learning. He is affiliated with  the Center for Brains, Minds and Machines, and the NSF Expedition in Computing, Visual Cortex On Silicon. His research interests include computational models of vision, mathematical models of cognition, medical image analysis, and artificial intelligence and neural networks. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.jhu.edu/~ayuille/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -274,7 +274,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row"  id="organizers">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/peterw.png" | prepend:site.baseurl }}">
-    <p><b>Peter Welinder</b> is a reasearch scientist at OpenAI. He works on topics ranging from deep reinforcement learning and computer vision to robotics software/hardware and simulation/rendering.&nbsp;
+    <p><b>Peter Welinder</b> is a reasearch scientist at OpenAI. He works on topics ranging from deep reinforcement learning and computer vision to robotics software/hardware and simulation/rendering. Previously he founded and managed the Machine Learning Team at Dropbox. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.linkedin.com/in/welinder/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -427,7 +427,9 @@ or implied, of the U.S. Government, or any sponsor." -->
 <a name="/sponsors"></a>
 <div class="row">
   <div class="col-xs-12 sponsor">
-    <img src="{{ "/static/img/ico/eccv18.png" | prepend:site.baseurl }}">
+    <a href="https://eccv2018.org/">
+      <img src="{{ "/static/img/ico/eccv18.png" | prepend:site.baseurl }}">
+    </a>
   </div>
 </div>
 <br>
@@ -490,14 +492,14 @@ or implied, of the U.S. Government, or any sponsor." -->
           realistic and rich 3D environment. arXiv:1801.02209 (2018)</li>
       <li>Yan, C., Misra, D., Bennnett, A., Walsman, A., Bisk, Y., Artzi, Y.: CHALET:
           Cornell house agent learning environment. arXiv:1801.07357 (2018)</li>
-      <li>Savva, M., Chang, A.X., Dosovitskiy, A., Funkhouser, T., Koltun, V.: MI-
-          NOS: Multimodal indoor simulator for navigation in complex environments.
+      <li>Savva, M., Chang, A.X., Dosovitskiy, A., Funkhouser, T., Koltun, V.: MINOS:
+          Multimodal indoor simulator for navigation in complex environments.
           arXiv:1712.03931 (2017)</li>
       <li>Anderson, P., Wu, Q., Teney, D., Bruce, J., Johnson, M., Sünderhauf, N., Reid,
           I., Gould, S., van den Hengel, A.: Vision-and-Language Navigation: Interpreting
           visually-grounded navigation instructions in real environments. In: CVPR. (2018)</li>
-      <li>Zamir, A.R., Xia, F., He, J., Sax, S., Malik, J., Savarese, S.: Gibson Env: Real-
-          world perception for embodied agents. In: CVPR. (2018)</li>
+      <li>Zamir, A.R., Xia, F., He, J., Sax, S., Malik, J., Savarese, S.: Gibson Env: Real-world
+          perception for embodied agents. In: CVPR. (2018)</li>
       <li>Zhu, Y., Mottaghi, R., Kolve, E., Lim, J.J., Gupta, A., Fei-Fei, L., Farhadi, A.:
           Target-driven visual navigation in indoor scenes using deep reinforcement learning.
           In: ICRA. (2017)</li>
