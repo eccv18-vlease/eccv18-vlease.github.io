@@ -35,6 +35,13 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <hr>
 
+<div class="row">
+  <div class="col-md-12">
+    <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
+    <p> Image credit: [2, 28, 12, 11, 15-21]</p>
+  </div>
+</div>
+
 <br>
 <div class="row" id="cfp">
   <div class="col-xs-12">
@@ -461,16 +468,16 @@ or implied, of the U.S. Government, or any sponsor." -->
       <li>Choy, C.B., Xu, D., Gwak, J., Chen, K., Savarese, S.: 3d-r2n2: A unified approach
           for single and multi-view 3d object reconstruction. In: European Conference on
           Computer Vision, Springer (2016) 628–644</li>
-      <li>Fan, H., Su, H., Guibas, L.: A point set generation network for 3d object recon-
-          struction from a single image. In: Conference on Computer Vision and Pattern
+      <li>Fan, H., Su, H., Guibas, L.: A point set generation network for 3d object reconstruction
+          from a single image. In: Conference on Computer Vision and Pattern
           Recognition (CVPR). Volume 38. (2017)</li>
       <li>Tatarchenko, M., Dosovitskiy, A., Brox, T.: Octree generating networks: Efficient
           convolutional architectures for high-resolution 3d outputs. CoRR, abs/1703.09438
           (2017)</li>
       <li>Kar, A., Häne, C., Malik, J.: Learning a multi-view stereo machine. In: Advances
           in Neural Information Processing Systems. (2017) 364–375</li>
-      <li>Byravan, A., Fox, D.: Se3-nets: Learning rigid body motion using deep neural net-
-          works. In: Robotics and Automation (ICRA), 2017 IEEE International Conference
+      <li>Byravan, A., Fox, D.: Se3-nets: Learning rigid body motion using deep neural networks.
+          In: Robotics and Automation (ICRA), 2017 IEEE International Conference
           on, IEEE (2017) 173–180</li>
       <li>Schenck, C., Fox, D.: Reasoning about liquids via closed-loop simulation. arXiv
           preprint arXiv:1703.01656 (2017)</li>
@@ -514,6 +521,8 @@ or implied, of the U.S. Government, or any sponsor." -->
           Answering. In: CVPR. (2018)</li>
       <li>Gordon, D., Kembhavi, A., Rastegari, M., Redmon, J., Fox, D., Farhadi, A.: IQA:
           Visual question answering in interactive environments. In: CVPR. (2018)</li>
+      <li>Richter, S., Vineet, V., Roth, S., Koltun, V.: Playing for Data: Ground Truth from 
+          Computer Games. In ECCV (2016).</li>
     </ol>
   </div>
 </div>
