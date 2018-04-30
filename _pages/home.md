@@ -135,7 +135,7 @@ or implied, of the U.S. Government, or any sponsor." -->
           <td>August 1st, 2018</td>
         </tr>
         <tr>
-          <td>Worshop Date</td>
+          <td>Workshop Date</td>
           <td>September 9th, 2018</td>
         </tr>
       </tbody>
@@ -242,7 +242,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/anton.png" | prepend:site.baseurl }}">
-    <p><b>Anton van den Hengel</b> is currently a Professor in the Scool of Computer Science at the University of Adelaide, the Director of the Australian Centre for Visual Techonolgies, and a Program Leader in The Data to Decisions (D2D) CRC. He has worked in a variety of research areas within Computer Vision including Parameter Estimation, Machine Learning, Video Surveillance and Interactive Image-based Modelling. &nbsp;
+    <p><b>Anton van den Hengel</b> is currently a Professor in the Scool of Computer Science at the University of Adelaide, the Director of the Australian Center for Visual Technologies, and a Program Leader in The Data to Decisions (D2D) CRC. He has worked in a variety of research areas within Computer Vision including Parameter Estimation, Machine Learning, Video Surveillance and Interactive Image-based Modeling. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://cs.adelaide.edu.au/users/hengel/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -274,7 +274,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row"  id="organizers">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/peterw.png" | prepend:site.baseurl }}">
-    <p><b>Peter Welinder</b> is a reasearch scientist at OpenAI. He works on topics ranging from deep reinforcement learning and computer vision to robotics software/hardware and simulation/rendering.&nbsp;
+    <p><b>Peter Welinder</b> is a research scientist at OpenAI. He works on topics ranging from deep reinforcement learning and computer vision to robotics software/hardware and simulation/rendering.&nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.linkedin.com/in/welinder/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -333,7 +333,7 @@ or implied, of the U.S. Government, or any sponsor." -->
     </a>
     <div class="people-name">
       <a href="https://cs.stanford.edu/~amirz/">Amir R. Zamir</a>
-      <h6>UC Berkeley, Stanford Univeristy</h6>
+      <h6>UC Berkeley, Stanford University</h6>
     </div>
   </div>
 
@@ -406,7 +406,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 {% if page.acknowledgements %}
 <div class="row">
   <div class="col-xs-12">
-    <h2>Acknowledgements</h2>
+    <h2>Acknowledgments</h2>
   </div>
 </div>
 <a name="/acknowledgements"></a>
