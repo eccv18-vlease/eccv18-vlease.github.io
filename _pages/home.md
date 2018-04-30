@@ -9,19 +9,6 @@ bibtex: true
 paper: true
 ---
 
-<!-- In case, acks are needed, uncomment the following and place in the intro block -->
-
-<!-- acknowledgements: "We are grateful to the developers of PyTorch for building an excellent framework.
-We thank Yuxin Wu for help with the House3D environment.
-This work was funded in part by NSF CAREER awards to DB and DP, ONR YIP awards
-to DP and DB, ONR Grant N00014-14-1-0679 to DB, ONR Grant N00014-16-1-2713 to DP,
-an Allen Distinguished Investigator award to DP from the Paul G. Allen Family Foundation,
-Google Faculty Research Awards to DP and DB, Amazon Academic Research Awards to DP and DB,
-AWS in Education Research grant to DB, and NVIDIA GPU donations to DB. The views and
-conclusions contained herein are those of the authors and should not be interpreted as
-necessarily representing the official policies or endorsements, either expressed
-or implied, of the U.S. Government, or any sponsor." -->
-
 <br>
 <div class="row">
   <div class="col-xs-12">
@@ -66,9 +53,6 @@ or implied, of the U.S. Government, or any sponsor." -->
       develop intelligent embodied agents and other vision-based systems.
     </p>
   </div>
-  <!-- <div class="col-xs-12">
-    <span style="color:#e74c3c;font-weight:400;">Dec 2017</span> — <a target="_blank" href="https://github.com/facebookresearch/house3d">Code for 3D environments</a> is now available!
-  </div> -->
 </div> <br>   
 
 <div class="row">
@@ -142,9 +126,6 @@ or implied, of the U.S. Government, or any sponsor." -->
     
   </div>
 
-  <!-- <div class="col-xs-12">
-    <span style="color:#e74c3c;font-weight:400;">Dec 2017</span> — <a target="_blank" href="https://github.com/facebookresearch/house3d">Code for 3D environments</a> is now available!
-  </div> -->
 </div><br>
 
 <div class="row" id="schedule">
