@@ -242,7 +242,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/anton.png" | prepend:site.baseurl }}">
-    <p><b>Anton van den Hengel</b> Anton van den Hengel is a Professor in the School of Computer Science at the University of Adelaide in Australia, the founding Director of the The Australian Centre for Visual Technologies (ACVT), a Chief Investigator of the Australian Centre for Robotic Vision and a Program Leader in the Data 2 Decisions Cooperative Research Centre. He has won best paper at CVPR, published over 300 publications, had eight patents commercialized and founded two startups. &nbsp;
+    <p><b>Anton van den Hengel</b> is a Professor in the School of Computer Science at the University of Adelaide in Australia, the founding Director of the The Australian Centre for Visual Technologies (ACVT), a Chief Investigator of the Australian Centre for Robotic Vision and a Program Leader in the Data 2 Decisions Cooperative Research Centre. He has won best paper at CVPR, published over 300 publications, had eight patents commercialized and founded two startups. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://cs.adelaide.edu.au/users/hengel/">Webpage</a>]</span></p>
   </div>
 </div><br>
