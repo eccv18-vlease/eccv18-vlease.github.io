@@ -73,45 +73,73 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>Call for papers</h2>
+    <h2>Call for papers and demos</h2>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We solicit high-quality short (4-page) and long (8-page) paper submissions,
-      which may also include a live demo. Demos will provide workshop participants
-      with an important opportunity to interact with simulation environments, algorithms
-      and agents, to better understand the strengths and limitations of current
-      work. All submissions will be peer reviewed. Accepted submissions will be showcased
-      in joint poster/demo sessions, with four paper submissions selected for
-      spotlight oral presentation. Full papers will be posted on the workshop website
-      but will not appear in the official proceedings. Submissions will be separated
-      into two tracks. Papers and demos must be submitted to one track only.
-
-      <h3>Visual Learning Track</h3><br>
-      <ul>
-        <li>Established computer vision tasks using synthetic data (e.g. 3D pose estimation,
-            object recognition, object detection, semantic segmentation, text localization, single-image 3D reconstruction and indoor/outdoor scene understanding)</li>
-        <li>Novel computer vision tasks using synthetic data</li>
-        <li>Understanding physics from visual input</li>
-        <li>Domain adaptation from simulators to the real world</li>
-      </ul><br>
-
-      <h3 id="dates">Embodied Agents Track</h3><br>
-      <ul>
-        <li>Embodied agents operating in simulation environments, including reinforcement
-            learning and approaches that use mapping and planning</li>
-        <li>Novel datasets / simulators / tasks for embodied agents</li>
-        <li>Language-based command of embodied agents, including embodied question
-            answering and / or dialog</li>
-        <li>Photo-realistic simulations from reconstructed point clouds / 3D meshes</li>
-        <li>Simulating interactions with objects in environments</li>
-        <li>Domain adaptation for embodied agents</li>
-        <li>Simulating people and environment changes</li>
-      </ul>
-
+      We invite high-quality paper submissions, optionally with a live demo. Accepted papers 
+      will be presented during joint poster/demo sessions, with exceptional submissions selected 
+      for spotlight oral presentation.
     </p>
+    <p>
+      Submissions must indicate if a poster-and-demo or a poster-only slot is requested. If a demo 
+      is requested, a short description of the demo and any equipment requirements must be provided. 
+      Note that demos should provide workshop participants with an opportunity to interact with 
+      simulation environments, algorithms, and agents in order to better understand the strengths 
+      and limitations of current work. Non-interactive visual displays, e.g. video or slide 
+      presentations will be rejected as demos.
+    </p>
+    <p>
+      Submissions are divided into two tracks and dual submission of a paper to both is prohibited:
+    </p><br>
+
+    <h3><span style="font-weight:500;">Visual Learning Track</span></h3>
+    <p><span style="font-weight:500;">Topics:</span> We welcome work focused on the use of synthetic 
+      data in broad computer vision tasks including but not limited to 3D pose estimation, object 
+      recognition, object detection, semantic segmentation, text localization, single-image 3D reconstruction, 
+      indoor/outdoor scene understanding, intuitive physics. Paper topics may include but are not limited to:
+      <ul>
+        <li>Use of synthetic data in visual learning tasks</li>
+        <li>Novel computer vision tasks using synthetic data</li>
+        <li>Change of synthetic environment to improve learning</li>
+        <li>Domain adaptation from synthetic data to the real world</li>
+      </ul>
+    </p>
+    <p> <span style="font-weight:500;">Submission:</span> All Visual Learning Track submissions will be handled 
+      electronically via the workshop <span style="color:#1a1aff;font-weight:400;"><a href="https://cmt3.research.microsoft.com/VLEASE2018">CMT website</a></span>.
+      Submissions to the Visual Learning Track should be between 4 and 14 pages in the ECCV format, excluding 
+      references, acknowledgements, and supplementary materials. All the accepted submissions will be published 
+      separately from the main conference in the post-proceedings by default, though authors could indicate 
+      explicitly if they want to opt out the post-proceedings. Dual submission is allowed, but must be explicitly 
+      stated at the time of submission and will not be included in the post-proceedings. Reviewing will be double-blind. 
+      Each submission will be reviewed by at least three reviewers for originality, significance, clarity, soundness, 
+      relevance and technical contents. Papers that are not blind, or have the wrong format, or have either less 
+      than 4 pages or more than 14 pages (excluding references) will be rejected without review.  Please contact 
+      <span style="color:#1a1aff;font-weight:400;"><a href="mailto:vlease2018.visuallearning@gmail.com">vlease2018.visuallearning@gmail.com</a></span> 
+      for any concerns.
+    </p><br>
+
+    <h3><span style="font-weight:500;">Embodied Agents Track</span></h3>
+    <p><span style="font-weight:500;">Topics:</span> We invite work on embodied agents operating in simulation environments including reinforcement learning and approaches that use mapping and planning. Paper topics may include but are not limited to:
+      <ul>
+        <li>Novel datasets / simulators / tasks for embodied agents</li>
+        <li>Language-based command of embodied agents, including embodied question answering and / or dialog</li>
+        <li>Photo-realistic simulations from reconstructed point clouds / 3D meshes</li>
+        <li>Simulating interactions with objects, other agents, and environmental changes</li>
+        <li>Domain adaptation for embodied agents</li>
+      </ul>
+    </p>
+    <p> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6 
+      pages excluding references, acknowledgements, and supplementary material, and should be in the ECCV format. 
+      We also welcome published papers that are within the scope of the workshop (without re-formatting), although 
+      these will not be eligible for spotlight presentation or awards (if any). Accepted papers will be made publicly 
+      available as non-archival reports, allowing future submissions to archival conferences or journals. Please submit 
+      your Embodied Agents Track paper to the following address by the deadline: 
+      <span style="color:#1a1aff;font-weight:400;"><a href="mailto:embodiedagents@gmail.com">embodiedagents@gmail.com</a></span>.
+    </p>
+    
   </div>
 
   <!-- <div class="col-xs-12">
@@ -123,7 +151,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
-</div><br>
+</div>
 
 <div class="row">
   <div class="col-xs-12">
@@ -131,18 +159,14 @@ or implied, of the U.S. Government, or any sponsor." -->
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>June 15th, 2018</td>
+          <td>July 13th, 2018</td>
         </tr>
         <tr>
           <td>Final Decisions</td>
-          <td>July 16th, 2018</td>
+          <td>July 31st, 2018</td>
         </tr>
         <tr>
-          <td>Camera-Ready deadline</td>
-          <td>August 1st, 2018</td>
-        </tr>
-        <tr>
-          <td>Worshop Date</td>
+          <td>Workshop Date</td>
           <td>September 9th, 2018</td>
         </tr>
       </tbody>
