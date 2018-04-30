@@ -35,6 +35,13 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <hr>
 
+<div class="row">
+  <div class="col-md-12">
+    <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
+    <p> Image credit: [2, 28, 12, 11, 15-21]</p>
+  </div>
+</div>
+
 <br>
 <div class="row" id="cfp">
   <div class="col-xs-12">
@@ -66,45 +73,73 @@ or implied, of the U.S. Government, or any sponsor." -->
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>Call for papers</h2>
+    <h2>Call for Papers and Demos</h2>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We solicit high-quality short (4-page) and long (8-page) paper submissions,
-      which may also include a live demo. Demos will provide workshop participants
-      with an important opportunity to interact with simulation environments, algorithms
-      and agents, to better understand the strengths and limitations of current
-      work. All submissions will be peer reviewed. Accepted submissions will be showcased
-      in joint poster/demo sessions, with four paper submissions selected for
-      spotlight oral presentation. Full papers will be posted on the workshop website
-      but will not appear in the official proceedings. Submissions will be separated
-      into two tracks. Papers and demos must be submitted to one track only.
-
-      <h3>Visual Learning Track</h3><br>
-      <ul>
-        <li>Established computer vision tasks using synthetic data (e.g. 3D pose estimation,
-            object recognition, object detection, semantic segmentation, text localization, single-image 3D reconstruction and indoor/outdoor scene understanding)</li>
-        <li>Novel computer vision tasks using synthetic data</li>
-        <li>Understanding physics from visual input</li>
-        <li>Domain adaptation from simulators to the real world</li>
-      </ul><br>
-
-      <h3 id="dates">Embodied Agents Track</h3><br>
-      <ul>
-        <li>Embodied agents operating in simulation environments, including reinforcement
-            learning and approaches that use mapping and planning</li>
-        <li>Novel datasets / simulators / tasks for embodied agents</li>
-        <li>Language-based command of embodied agents, including embodied question
-            answering and / or dialog</li>
-        <li>Photo-realistic simulations from reconstructed point clouds / 3D meshes</li>
-        <li>Simulating interactions with objects in environments</li>
-        <li>Domain adaptation for embodied agents</li>
-        <li>Simulating people and environment changes</li>
-      </ul>
-
+      We invite high-quality paper submissions, optionally with a live demo. Accepted papers 
+      will be presented during joint poster/demo sessions, with exceptional submissions selected 
+      for spotlight oral presentation.
     </p>
+    <p>
+      Submissions must indicate if a poster-and-demo or a poster-only slot is requested. If a demo 
+      is requested, a short description of the demo and any equipment requirements must be provided. 
+      Note that demos should provide workshop participants with an opportunity to interact with 
+      simulation environments, algorithms, and agents in order to better understand the strengths 
+      and limitations of current work. Non-interactive visual displays, e.g. video or slide 
+      presentations will be rejected as demos.
+    </p>
+    <p>
+      Submissions are divided into two tracks and dual submission of a paper to both is prohibited:
+    </p><br>
+
+    <h3><span style="font-weight:500;">Visual Learning Track</span></h3>
+    <p><span style="font-weight:500;">Topics:</span> We welcome work focused on the use of synthetic 
+      data in broad computer vision tasks including but not limited to 3D pose estimation, object 
+      recognition, object detection, semantic segmentation, text localization, single-image 3D reconstruction, 
+      indoor/outdoor scene understanding, intuitive physics. Paper topics may include but are not limited to:
+      <ul>
+        <li>Use of synthetic data in visual learning tasks</li>
+        <li>Novel computer vision tasks using synthetic data</li>
+        <li>Change of synthetic environment to improve learning</li>
+        <li>Domain adaptation from synthetic data to the real world</li>
+      </ul>
+    </p>
+    <p> <span style="font-weight:500;">Submission:</span> All Visual Learning Track submissions will be handled 
+      electronically via the workshop <span style="color:#1a1aff;font-weight:400;"><a href="https://cmt3.research.microsoft.com/VLEASE2018">CMT website</a></span>.
+      Submissions to the Visual Learning Track should be between 4 and 14 pages in the ECCV format, excluding 
+      references, acknowledgements, and supplementary materials. All the accepted submissions will be published 
+      separately from the main conference in the post-proceedings by default, though authors could indicate 
+      explicitly if they want to opt out the post-proceedings. Dual submission is allowed, but must be explicitly 
+      stated at the time of submission and will not be included in the post-proceedings. Reviewing will be double-blind. 
+      Each submission will be reviewed by at least three reviewers for originality, significance, clarity, soundness, 
+      relevance and technical contents. Papers that are not blind, or have the wrong format, or have either less 
+      than 4 pages or more than 14 pages (excluding references) will be rejected without review.  Please contact 
+      <span style="color:#1a1aff;font-weight:400;"><a href="mailto:vlease2018.visuallearning@gmail.com">vlease2018.visuallearning@gmail.com</a></span> 
+      for any concerns.
+    </p><br>
+
+    <h3><span style="font-weight:500;">Embodied Agents Track</span></h3>
+    <p><span style="font-weight:500;">Topics:</span> We invite work on embodied agents operating in simulation environments including reinforcement learning and approaches that use mapping and planning. Paper topics may include but are not limited to:
+      <ul>
+        <li>Novel datasets / simulators / tasks for embodied agents</li>
+        <li>Language-based command of embodied agents, including embodied question answering and / or dialog</li>
+        <li>Photo-realistic simulations from reconstructed point clouds / 3D meshes</li>
+        <li>Simulating interactions with objects, other agents, and environmental changes</li>
+        <li>Domain adaptation for embodied agents</li>
+      </ul>
+    </p>
+    <p> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6 
+      pages excluding references, acknowledgements, and supplementary material, and should be in the ECCV format. 
+      We also welcome published papers that are within the scope of the workshop (without re-formatting), although 
+      these will not be eligible for spotlight presentation or awards (if any). Accepted papers will be made publicly 
+      available as non-archival reports, allowing future submissions to archival conferences or journals. Please submit 
+      your Embodied Agents Track paper to the following address by the deadline: 
+      <span style="color:#1a1aff;font-weight:400;"><a href="mailto:embodiedagents@gmail.com">embodiedagents@gmail.com</a></span>.
+    </p>
+    
   </div>
 
   <!-- <div class="col-xs-12">
@@ -116,7 +151,7 @@ or implied, of the U.S. Government, or any sponsor." -->
   <div class="col-xs-12">
     <h2>Important Dates</h2>
   </div>
-</div><br>
+</div>
 
 <div class="row">
   <div class="col-xs-12">
@@ -124,15 +159,11 @@ or implied, of the U.S. Government, or any sponsor." -->
       <tbody>
         <tr>
           <td>Paper Submission Deadline</td>
-          <td>June 15th, 2018</td>
+          <td>July 13th, 2018</td>
         </tr>
         <tr>
           <td>Final Decisions</td>
-          <td>July 16th, 2018</td>
-        </tr>
-        <tr>
-          <td>Camera-Ready deadline</td>
-          <td>August 1st, 2018</td>
+          <td>July 31st, 2018</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
@@ -194,7 +225,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jitendra.png" | prepend:site.baseurl }}">
-    <p><b>Jitendra Malik</b> is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. His research group has worked on many different topics in computer vision, computational modeling of human vision and computer graphics. Several well-known concepts and algorithms arose in this research, such as normalized cuts, high dynamic range imaging and R-CNN. &nbsp;
+    <p><b>Jitendra Malik</b> is the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. His research group has worked on many different topics in computer vision, computational modeling of human vision and computer graphics. Several well-known concepts and algorithms arose in this research, such as normalized cuts, high dynamic range imaging and R-CNN. He has mentored more than 50 PhD students and postdoctoral fellows. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://people.eecs.berkeley.edu/~malik/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -202,15 +233,15 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/vladlen.png" | prepend:site.baseurl }}">
-    <p><b>Vladlen Koltun</b> is a Senior Principal Researcher and the director of the Intelligent Systems Lab at Intel. The lab is devoted to high-impact basic research on intelligent systems. He has published primarily in computer vision, machine learning, robotics, and graphics conferences. &nbsp;
+    <p><b>Vladlen Koltun</b> is a Senior Principal Researcher and the director of the Intelligent Systems Lab at Intel. The lab is devoted to high-impact basic research on intelligent systems. Previously, he has been a Senior Research Scientist at Adobe Research and an Assistant Professor at Stanford where his theoretical research was recognized with the National Science Foundation (NSF) CAREER Award (2006) and the Sloan Research Fellowship (2007). &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://vladlen.info/">Webpage]</a></span></p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/devi.png" | prepend:site.baseurl }}">
-    <p><b>Devi Parikh</b> is an Assistant Professor in the School of Interactive Computing at Georgia Tech and a Visiting Researcher at Facebook AI Research (FAIR). From 2013 to 2016 she was an Assistant Professor in the Bradley Department of Electrical and Computer Engineering at Virginia Tech. From 2009 to 2012 she was a Research Assistant Professor at Toyota Technological Institute at Chicago (TTIC). &nbsp;
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/dhruv.png" | prepend:site.baseurl }}">
+    <p><b>Dhruv Batra</b> is an Assistant Professor in the School of Interactive Computing at Georgia Tech and a Research Scientist at Facebook AI Research (FAIR). His research interests lie at the intersection of machine learning, computer vision, natural language processing, and AI. He is a recipient of numerous awards including the Office of Naval Research (ONR) Young Investigator Program (YIP) award (2016), two Google Faculty Research Awards (2013, 2015) and the Amazon Academic Research award (2016). &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.cc.gatech.edu/~parikh/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -218,7 +249,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/raia.png" | prepend:site.baseurl }}">
-    <p><b>Raia Hadsell</b> is a research scientist on the Deep Learning team at DeepMind. She completed her PhD with Yann LeCun, at NYU, focused on machine learning using Siamese neural nets and on deep learning for mobile robots in the wild. Her thesis, 'Learning Long-range vision for offroad robots', was awarded the Outstanding Dissertation award in 2009. &nbsp;
+    <p><b>Raia Hadsell</b>, a senior research scientist at DeepMind, has worked on deep learning and robotics problems for over 10 years. After completing a PhD with Yann LeCun at NYU, her research continued at Carnegie Mellon's Robotics Institute and SRI International, and in early 2014 she joined DeepMind in London to study artificial general intelligence. Her current research focuses on the challenge of continual learning for AI agents and robotic systems. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://raiahadsell.com/index.html">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -234,7 +265,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/abhinav.png" | prepend:site.baseurl }}">
-    <p><b>Abhinav Gupta</b> is an assistant professor at Carnegie Mellon University. Prior to this, he was a post-doctoral fellow here working with Alyosha Efros and Martial Hebert. His research focuses on developing representation and reasoning approaches for deeper understanding of the scene, how linguistic information can be harnessed to efficiently learn how the world works and how are actions and objects related to each other. &nbsp;
+    <p><b>Abhinav Gupta</b> is an Assistant Professor in the Robotics Institute at Carnegie Mellon University (CMU). Prior to this, he was a post-doctoral fellow at CMU working with Alyosha Efros and Martial Hebert. His research interests include developing representations of the visual world, linking language and vision, and the relationships between objects and actions. He is a recipient of the PAMI Young Researcher award, the Bosch Young Faculty Fellowship and a Google Faculty Research Award. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.cmu.edu/~abhinavg/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -242,7 +273,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/anton.png" | prepend:site.baseurl }}">
-    <p><b>Anton van den Hengel</b> is currently a Professor in the Scool of Computer Science at the University of Adelaide, the Director of the Australian Center for Visual Technologies, and a Program Leader in The Data to Decisions (D2D) CRC. He has worked in a variety of research areas within Computer Vision including Parameter Estimation, Machine Learning, Video Surveillance and Interactive Image-based Modeling. &nbsp;
+    <p><b>Anton van den Hengel</b> is a Professor in the School of Computer Science at the University of Adelaide in Australia, the founding Director of the The Australian Centre for Visual Technologies (ACVT), a Chief Investigator of the Australian Centre for Robotic Vision and a Program Leader in the Data 2 Decisions Cooperative Research Centre. He has won best paper at CVPR, published over 300 publications, had eight patents commercialized and founded two startups. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://cs.adelaide.edu.au/users/hengel/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -250,7 +281,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/raquel.png" | prepend:site.baseurl }}">
-    <p><b>Raquel Urtasun</b> is the Head of Uber ATG Toronto. She is also an Associate Professor in the Department of Computer Science at the University of Toronto, a Canada Research Chair in Machine Learning and Computer Vision and a co-founder of the Vector Institute for AI. Prior to this, she was an Assistant Professor at the Toyota Technological Institute at Chicago (TTIC) &nbsp;
+    <p><b>Raquel Urtasun</b> is the Head of Uber ATG Toronto. She is also an Associate Professor in the Department of Computer Science at the University of Toronto, a Canada Research Chair in Machine Learning and Computer Vision and a co-founder of the Vector Institute for AI. Prior to this, she was an Assistant Professor at the Toyota Technological Institute at Chicago (TTIC). Her research interests include machine learning, computer vision, robotics and remote sensing. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.toronto.edu/~urtasun/">Webpage</a>] </span></p>
   </div>
 </div><br>
@@ -258,7 +289,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/dieter.png" | prepend:site.baseurl }}">
-    <p><b>Dieter Fox</b> is a Professor in the Department of Computer Science and Engineering at the University of Washington. His research interests are in robotics, artificial intelligence, and state estimation. He is the head of the UW Robotics and State Estimation Lab RSE-Lab and currently serves as the academic PI of the Intel Science and Technology Center for Pervasive Computing ISTC-PC. &nbsp;
+    <p><b>Dieter Fox</b> is a Professor in the Department of Computer Science and Engineering at the University of Washington and also affiliated with Nvidia Research. His research interests are in robotics, artificial intelligence, and state estimation. The goal of his research is to enable systems to interact with people and their environment in an intelligent way. He is the head of the UW Robotics and State Estimation Lab RSE-Lab and the academic PI of the Intel Science and Technology Center for Pervasive Computing ISTC-PC. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://homes.cs.washington.edu/~fox/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -266,7 +297,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/alan.png" | prepend:site.baseurl }}">
-    <p><b>Alan Yuille</b> is a Bloomberg Distinguished Professor of Cognitive Science and Computer Science at Johns Hopkins University. He directs the research group on Compositional Cognition, Vision, and Learning. He is affiliated with  the Center for Brains, Minds and Machines, and the NSF Expedition in Computing, Visual Cortex On Silicon. &nbsp;
+    <p><b>Alan Yuille</b> is a Bloomberg Distinguished Professor of Cognitive Science and Computer Science at Johns Hopkins University. He directs the research group on Compositional Cognition, Vision, and Learning. He is affiliated with  the Center for Brains, Minds and Machines, and the NSF Expedition in Computing, Visual Cortex On Silicon. His research interests include computational models of vision, mathematical models of cognition, medical image analysis, and artificial intelligence and neural networks. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.jhu.edu/~ayuille/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -274,7 +305,7 @@ or implied, of the U.S. Government, or any sponsor." -->
 <div class="row"  id="organizers">
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/peterw.png" | prepend:site.baseurl }}">
-    <p><b>Peter Welinder</b> is a research scientist at OpenAI. He works on topics ranging from deep reinforcement learning and computer vision to robotics software/hardware and simulation/rendering.&nbsp;
+    <p><b>Peter Welinder</b> is a reasearch scientist at OpenAI. He works on topics ranging from deep reinforcement learning and computer vision to robotics software/hardware and simulation/rendering. Previously he founded and managed the Machine Learning Team at Dropbox. &nbsp;
     <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.linkedin.com/in/welinder/">Webpage</a>]</span></p>
   </div>
 </div><br>
@@ -427,7 +458,9 @@ or implied, of the U.S. Government, or any sponsor." -->
 <a name="/sponsors"></a>
 <div class="row">
   <div class="col-xs-12 sponsor">
-    <img src="{{ "/static/img/ico/eccv18.png" | prepend:site.baseurl }}">
+    <a href="https://eccv2018.org/">
+      <img src="{{ "/static/img/ico/eccv18.png" | prepend:site.baseurl }}">
+    </a>
   </div>
 </div>
 <br>
@@ -459,16 +492,16 @@ or implied, of the U.S. Government, or any sponsor." -->
       <li>Choy, C.B., Xu, D., Gwak, J., Chen, K., Savarese, S.: 3d-r2n2: A unified approach
           for single and multi-view 3d object reconstruction. In: European Conference on
           Computer Vision, Springer (2016) 628–644</li>
-      <li>Fan, H., Su, H., Guibas, L.: A point set generation network for 3d object recon-
-          struction from a single image. In: Conference on Computer Vision and Pattern
+      <li>Fan, H., Su, H., Guibas, L.: A point set generation network for 3d object reconstruction
+          from a single image. In: Conference on Computer Vision and Pattern
           Recognition (CVPR). Volume 38. (2017)</li>
       <li>Tatarchenko, M., Dosovitskiy, A., Brox, T.: Octree generating networks: Efficient
           convolutional architectures for high-resolution 3d outputs. CoRR, abs/1703.09438
           (2017)</li>
       <li>Kar, A., Häne, C., Malik, J.: Learning a multi-view stereo machine. In: Advances
           in Neural Information Processing Systems. (2017) 364–375</li>
-      <li>Byravan, A., Fox, D.: Se3-nets: Learning rigid body motion using deep neural net-
-          works. In: Robotics and Automation (ICRA), 2017 IEEE International Conference
+      <li>Byravan, A., Fox, D.: Se3-nets: Learning rigid body motion using deep neural networks.
+          In: Robotics and Automation (ICRA), 2017 IEEE International Conference
           on, IEEE (2017) 173–180</li>
       <li>Schenck, C., Fox, D.: Reasoning about liquids via closed-loop simulation. arXiv
           preprint arXiv:1703.01656 (2017)</li>
@@ -490,14 +523,14 @@ or implied, of the U.S. Government, or any sponsor." -->
           realistic and rich 3D environment. arXiv:1801.02209 (2018)</li>
       <li>Yan, C., Misra, D., Bennnett, A., Walsman, A., Bisk, Y., Artzi, Y.: CHALET:
           Cornell house agent learning environment. arXiv:1801.07357 (2018)</li>
-      <li>Savva, M., Chang, A.X., Dosovitskiy, A., Funkhouser, T., Koltun, V.: MI-
-          NOS: Multimodal indoor simulator for navigation in complex environments.
+      <li>Savva, M., Chang, A.X., Dosovitskiy, A., Funkhouser, T., Koltun, V.: MINOS:
+          Multimodal indoor simulator for navigation in complex environments.
           arXiv:1712.03931 (2017)</li>
       <li>Anderson, P., Wu, Q., Teney, D., Bruce, J., Johnson, M., Sünderhauf, N., Reid,
           I., Gould, S., van den Hengel, A.: Vision-and-Language Navigation: Interpreting
           visually-grounded navigation instructions in real environments. In: CVPR. (2018)</li>
-      <li>Zamir, A.R., Xia, F., He, J., Sax, S., Malik, J., Savarese, S.: Gibson Env: Real-
-          world perception for embodied agents. In: CVPR. (2018)</li>
+      <li>Zamir, A.R., Xia, F., He, J., Sax, S., Malik, J., Savarese, S.: Gibson Env: Real-world
+          perception for embodied agents. In: CVPR. (2018)</li>
       <li>Zhu, Y., Mottaghi, R., Kolve, E., Lim, J.J., Gupta, A., Fei-Fei, L., Farhadi, A.:
           Target-driven visual navigation in indoor scenes using deep reinforcement learning.
           In: ICRA. (2017)</li>
@@ -512,6 +545,8 @@ or implied, of the U.S. Government, or any sponsor." -->
           Answering. In: CVPR. (2018)</li>
       <li>Gordon, D., Kembhavi, A., Rastegari, M., Redmon, J., Fox, D., Farhadi, A.: IQA:
           Visual question answering in interactive environments. In: CVPR. (2018)</li>
+      <li>Richter, S., Vineet, V., Roth, S., Koltun, V.: Playing for Data: Ground Truth from 
+          Computer Games. In ECCV (2016).</li>
     </ol>
   </div>
 </div>
