@@ -105,7 +105,7 @@ paper: true
       for any concerns.
     </p><br>
 
-    <div class="row" id="dates">
+    <div id="dates">
       <h3><span style="font-weight:500;">Embodied Agents Track</span></h3>
     </div>
 
