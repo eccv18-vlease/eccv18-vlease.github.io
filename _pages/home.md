@@ -406,7 +406,7 @@ paper: true
       <img class="people-pic" src="{{ "/static/img/people/leonidas.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibus</a>
+      <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>
       <h6>Stanford University</h6>
     </div>
   </div>
