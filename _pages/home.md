@@ -83,11 +83,11 @@ paper: true
     <p><span style="font-weight:500;">Topics:</span> We welcome work focused on the use of synthetic 
       data in broad computer vision tasks including but not limited to 3D pose estimation, object 
       recognition, object detection, semantic segmentation, text localization, single-image 3D reconstruction, 
-      indoor/outdoor scene understanding, intuitive physics. Paper topics may include but are not limited to:
+      indoor/outdoor scene understanding, single-image VQA, and intuitive physics. Paper topics may include but are not limited to:
       <ul>
         <li>Use of synthetic data in visual learning tasks</li>
         <li>Novel computer vision tasks using synthetic data</li>
-        <li>Change of synthetic environment to improve learning</li>
+        <li>Learning synthetic data generation protocols</li>
         <li>Domain adaptation from synthetic data to the real world</li>
       </ul>
     </p>
