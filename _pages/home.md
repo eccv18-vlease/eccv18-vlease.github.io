@@ -105,7 +105,7 @@ paper: true
       for any concerns.
     </p><br>
 
-    <h3><span style="font-weight:500;">Embodied Agents Track</span></h3>
+    <h3><span style="font-weight:500;">Embodied Agents Track</span></h3><br>
     <p><span style="font-weight:500;">Topics:</span> We invite extended abstracts for work on embodied agents operating in simulation environments including reinforcement learning and approaches that use mapping and planning. Paper topics may include but are not limited to:
       <ul>
         <li>Novel datasets / simulators / tasks for embodied agents</li>
