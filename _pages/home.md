@@ -105,11 +105,9 @@ paper: true
       for any concerns.
     </p><br>
 
-    <div class="row" id="dates">
-      <h3><span style="font-weight:500;">Embodied Agents Track</span></h3>
-    </div>
+    <h3><span style="font-weight:500;">Embodied Agents Track</span></h3>
 
-    <p><span style="font-weight:500;">Topics:</span> We invite work on embodied agents operating in simulation environments including reinforcement learning and approaches that use mapping and planning. Paper topics may include but are not limited to:
+    <p><span style="font-weight:500;">Topics:</span> We invite extended abstracts for work on embodied agents operating in simulation environments including reinforcement learning and approaches that use mapping and planning. Paper topics may include but are not limited to:
       <ul>
         <li>Novel datasets / simulators / tasks for embodied agents</li>
         <li>Language-based command of embodied agents, including embodied question answering and / or dialog</li>
@@ -120,8 +118,8 @@ paper: true
     </p>
     <p> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6 
       pages excluding references, acknowledgements, and supplementary material, and should be in the ECCV format. 
-      We also welcome published papers that are within the scope of the workshop (without re-formatting), although 
-      these will not be eligible for spotlight presentation or awards (if any). Accepted papers will be made publicly 
+      Reviewing will be single blind. We also welcome published papers that are within the scope of the workshop (without re-formatting), although 
+      these will not be eligible for spotlight presentation or awards (if any). Accepted extended abstracts will be made publicly 
       available as non-archival reports, allowing future submissions to archival conferences or journals. Please submit 
       your Embodied Agents Track paper to the following address by the deadline: 
       <span style="color:#1a1aff;font-weight:400;"><a href="mailto:embodiedagents@gmail.com">embodiedagents@gmail.com</a></span>.
