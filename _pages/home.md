@@ -25,7 +25,7 @@ paper: true
 <div class="row" id="intro">
   <div class="col-md-12">
     <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
-    <p> Image credit: [2, 28, 12, 11, 15-21]</p>
+    <p> Image credit: [2, 28, 12, 11, 15-21, 26]</p>
   </div>
 </div>
 
