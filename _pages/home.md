@@ -7,6 +7,7 @@ permalink: /
 favicon: /static/img/embodiedqa/favicon.png
 bibtex: true
 paper: true
+acknowledgements: ""
 ---
 
 <br>
@@ -425,11 +426,12 @@ paper: true
 <div class="row">
   <div class="col-xs-12">
     <p>
-      {{ page.acknowledgements }}
+      Thanks to <a href="https://abhishekdas.com">Abhishek Das</a> for the webpage format.
     </p>
   </div>
 </div>
 {% endif %}
+
 <!--
 <div class="row">
   <div class="col-xs-12">
