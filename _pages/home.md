@@ -14,7 +14,7 @@ paper: true
   <div class="col-xs-12">
     <center><h1>Visual Learning and Embodied Agents in Simulation Environments</h1></center>
     <center><h2>ECCV 2018 Workshop, Munich, Germany</h2></center>
-    <center><span style="color:#e74c3c;font-weight:400;" id="intro">
+    <center><span style="color:#e74c3c;font-weight:400;">
       Sunday, 9th September, 08:45 AM to 06:00 PM, Room: TBD
     </span></center>
   </div>
@@ -22,7 +22,7 @@ paper: true
 
 <hr>
 
-<div class="row">
+<div class="row" id="intro">
   <div class="col-md-12">
     <img src="{{ "/static/img/splash.png" | prepend:site.baseurl }}">
     <p> Image credit: [2, 28, 12, 11, 15-21]</p>
@@ -83,11 +83,11 @@ paper: true
     <p><span style="font-weight:500;">Topics:</span> We welcome work focused on the use of synthetic 
       data in broad computer vision tasks including but not limited to 3D pose estimation, object 
       recognition, object detection, semantic segmentation, text localization, single-image 3D reconstruction, 
-      indoor/outdoor scene understanding, intuitive physics. Paper topics may include but are not limited to:
+      indoor/outdoor scene understanding, single-image VQA, and intuitive physics. Paper topics may include but are not limited to:
       <ul>
         <li>Use of synthetic data in visual learning tasks</li>
         <li>Novel computer vision tasks using synthetic data</li>
-        <li>Change of synthetic environment to improve learning</li>
+        <li>Learning synthetic data generation protocols</li>
         <li>Domain adaptation from synthetic data to the real world</li>
       </ul>
     </p>
@@ -105,7 +105,7 @@ paper: true
       for any concerns.
     </p><br>
 
-    <h3><span style="font-weight:500;">Embodied Agents Track</span></h3>
+    <h3><span style="font-weight:500;">Embodied Agents Track</span></h3><br>
     <p><span style="font-weight:500;">Topics:</span> We invite extended abstracts for work on embodied agents operating in simulation environments including reinforcement learning and approaches that use mapping and planning. Paper topics may include but are not limited to:
       <ul>
         <li>Novel datasets / simulators / tasks for embodied agents</li>
@@ -115,7 +115,7 @@ paper: true
         <li>Domain adaptation for embodied agents</li>
       </ul>
     </p>
-    <p> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6 
+    <p id="dates"> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6 
       pages excluding references, acknowledgements, and supplementary material, and should be in the ECCV format. 
       Reviewing will be single blind. We also welcome published papers that are within the scope of the workshop (without re-formatting), although 
       these will not be eligible for spotlight presentation or awards (if any). Accepted extended abstracts will be made publicly 
@@ -406,7 +406,7 @@ paper: true
       <img class="people-pic" src="{{ "/static/img/people/leonidas.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibus</a>
+      <a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a>
       <h6>Stanford University</h6>
     </div>
   </div>
