@@ -345,7 +345,7 @@ paper: true
     </a>
     <div class="people-name">
       <a href="https://cs.stanford.edu/~amirz/">Amir R. Zamir</a>
-      <h6>UC Berkeley, Stanford University</h6>
+      <h6>Stanford University, UC Berkeley</h6>
     </div>
   </div>
 
@@ -430,7 +430,7 @@ paper: true
   </div>
 </div>
 {% endif %}
-
+<!--
 <div class="row">
   <div class="col-xs-12">
     <h2>Sponsors</h2>
@@ -445,6 +445,7 @@ paper: true
   </div>
 </div>
 <br>
+-->
 <br>
 
 <div class="row">
