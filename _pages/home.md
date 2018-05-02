@@ -426,7 +426,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Thanks to <a href="https://abhishekdas.com">Abhishek Das</a> for the webpage format.
+      Thanks to <span style="color:#1a1aff;font-weight:400;"> <a href="https://visualdialog.org/">visualdialog.org</a></span> for the webpage format.
     </p>
   </div>
 </div>
