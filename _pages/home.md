@@ -64,16 +64,16 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite high-quality paper submissions, optionally with a live demo. Accepted papers 
-      will be presented during joint poster/demo sessions, with exceptional submissions selected 
+      We invite high-quality paper submissions, optionally with a live demo. Accepted papers
+      will be presented during joint poster/demo sessions, with exceptional submissions selected
       for spotlight oral presentation.
     </p>
     <p>
-      Submissions must indicate if a poster-and-demo or a poster-only slot is requested. If a demo 
-      is requested, a short description of the demo and any equipment requirements must be provided. 
-      Note that demos should provide workshop participants with an opportunity to interact with 
-      simulation environments, algorithms, and agents in order to better understand the strengths 
-      and limitations of current work. Non-interactive visual displays, e.g. video or slide 
+      Submissions must indicate if a poster-and-demo or a poster-only slot is requested. If a demo
+      is requested, a short description of the demo and any equipment requirements must be provided.
+      Note that demos should provide workshop participants with an opportunity to interact with
+      simulation environments, algorithms, and agents in order to better understand the strengths
+      and limitations of current work. Non-interactive visual displays, e.g. video or slide
       presentations will be rejected as demos.
     </p>
     <p>
@@ -81,9 +81,9 @@ acknowledgements: ""
     </p><br>
 
     <h3><span style="font-weight:500;">Visual Learning Track</span></h3><br>
-    <p><span style="font-weight:500;">Topics:</span> We welcome work focused on the use of synthetic 
-      data in broad computer vision tasks including but not limited to 3D pose estimation, object 
-      recognition, object detection, semantic segmentation, text localization, single-image 3D reconstruction, 
+    <p><span style="font-weight:500;">Topics:</span> We welcome work focused on the use of synthetic
+      data in broad computer vision tasks including but not limited to 3D pose estimation, object
+      recognition, object detection, semantic segmentation, text localization, single-image 3D reconstruction,
       indoor/outdoor scene understanding, single-image VQA, and intuitive physics. Paper topics may include but are not limited to:
       <ul>
         <li>Use of synthetic data in visual learning tasks</li>
@@ -92,17 +92,17 @@ acknowledgements: ""
         <li>Domain adaptation from synthetic data to the real world</li>
       </ul>
     </p>
-    <p> <span style="font-weight:500;">Submission:</span> All Visual Learning Track submissions will be handled 
+    <p> <span style="font-weight:500;">Submission:</span> All Visual Learning Track submissions will be handled
       electronically via the workshop <span style="color:#1a1aff;font-weight:400;"><a href="https://cmt3.research.microsoft.com/VLEASE2018">CMT website</a></span>.
-      Submissions to the Visual Learning Track should be between 4 and 14 pages in the ECCV format, excluding 
-      references, acknowledgements, and supplementary materials. All the accepted submissions will be published 
-      separately from the main conference in the post-proceedings by default, though authors could indicate 
-      explicitly if they want to opt out the post-proceedings. Dual submission is allowed, but must be explicitly 
-      stated at the time of submission and will not be included in the post-proceedings. Reviewing will be double-blind. 
-      Each submission will be reviewed by at least three reviewers for originality, significance, clarity, soundness, 
-      relevance and technical contents. Papers that are not blind, or have the wrong format, or have either less 
-      than 4 pages or more than 14 pages (excluding references) will be rejected without review.  Please contact 
-      <span style="color:#1a1aff;font-weight:400;"><a href="mailto:vlease2018.visuallearning@gmail.com">vlease2018.visuallearning@gmail.com</a></span> 
+      Submissions to the Visual Learning Track should be between 4 and 14 pages in the ECCV format, excluding
+      references, acknowledgements, and supplementary materials. All the accepted submissions will be published
+      separately from the main conference in the post-proceedings by default, though authors could indicate
+      explicitly if they want to opt out the post-proceedings. Dual submission is allowed, but must be explicitly
+      stated at the time of submission and will not be included in the post-proceedings. Reviewing will be double-blind.
+      Each submission will be reviewed by at least three reviewers for originality, significance, clarity, soundness,
+      relevance and technical contents. Papers that are not blind, or have the wrong format, or have either less
+      than 4 pages or more than 14 pages (excluding references) will be rejected without review.  Please contact
+      <span style="color:#1a1aff;font-weight:400;"><a href="mailto:vlease2018.visuallearning@gmail.com">vlease2018.visuallearning@gmail.com</a></span>
       for any concerns.
     </p><br>
 
@@ -116,15 +116,15 @@ acknowledgements: ""
         <li>Domain adaptation for embodied agents</li>
       </ul>
     </p>
-    <p id="dates"> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6 
-      pages excluding references, acknowledgements, and supplementary material, and should be in the ECCV format. 
-      Reviewing will be single blind. We also welcome published papers that are within the scope of the workshop (without re-formatting), although 
-      these will not be eligible for spotlight presentation or awards (if any). Accepted extended abstracts will be made publicly 
-      available as non-archival reports, allowing future submissions to archival conferences or journals. Please submit 
-      your Embodied Agents Track paper to the following address by the deadline: 
+    <p id="dates"> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6
+      pages excluding references, acknowledgements, and supplementary material, and should be in the ECCV format.
+      Reviewing will be single blind. We also welcome published papers that are within the scope of the workshop (without re-formatting), although
+      these will not be eligible for spotlight presentation or awards (if any). Accepted extended abstracts will be made publicly
+      available as non-archival reports, allowing future submissions to archival conferences or journals. Please submit
+      your Embodied Agents Track paper to the following address by the deadline:
       <span style="color:#1a1aff;font-weight:400;"><a href="mailto:embodiedagents@gmail.com">embodiedagents@gmail.com</a></span>.
     </p>
-    
+
   </div>
 
 </div><br>
@@ -175,8 +175,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <ul>
-      <li>08:45 AM : Welcome and Introduction</li> 
-      <li>09:00 AM : Speaker 1</li> 
+      <li>08:45 AM : Welcome and Introduction</li>
+      <li>09:00 AM : Speaker 1</li>
       <li>09:25 AM : Speaker 2</li>
       <li>09:50 AM : Speaker 3</li>
       <li>10:15 AM : Coffee + Posters/Demos (Visual Learning Track)</li>
@@ -319,7 +319,7 @@ acknowledgements: ""
       <h6>Princeton University</h6>
     </div>
   </div>
-  
+
   <div class="col-xs-2">
     <a href="https://angelxuanchang.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/angel.png" | prepend:site.baseurl }}">
@@ -329,7 +329,7 @@ acknowledgements: ""
       <h6>Princeton University</h6>
     </div>
   </div>
-  
+
   <div class="col-xs-2">
     <a href="https://people.eecs.berkeley.edu/~sgupta/">
       <img class="people-pic" src="{{ "/static/img/people/saurabh.png" | prepend:site.baseurl }}">
@@ -381,7 +381,7 @@ acknowledgements: ""
       <h6>Stanford University</h6>
     </div>
   </div>
-  
+
   <div class="col-xs-2">
     <a href="http://cseweb.ucsd.edu/~haosu/">
       <img class="people-pic" src="{{ "/static/img/people/hao.png" | prepend:site.baseurl }}">
@@ -391,7 +391,7 @@ acknowledgements: ""
       <h6>UC San Diego</h6>
     </div>
   </div>
-  
+
   <div class="col-xs-2">
     <a href="https://www.cs.utexas.edu/~huangqx/">
       <img class="people-pic" src="{{ "/static/img/people/qixing.png" | prepend:site.baseurl }}">
@@ -402,7 +402,17 @@ acknowledgements: ""
     </div>
   </div>
 
-  <div class="col-xs-2" id="sponsors">
+  <div class="col-xs-2">
+    <a href="http://mvig.sjtu.edu.cn/">
+      <img class="people-pic" src="{{ "/static/img/people/cewu.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://mvig.sjtu.edu.cn/">Cewu Lu</a>
+      <h6>Shanghai Jiao Tong University</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-2">
     <a href="https://geometry.stanford.edu/member/guibas/">
       <img class="people-pic" src="{{ "/static/img/people/leonidas.png" | prepend:site.baseurl }}">
     </a>
@@ -529,7 +539,7 @@ acknowledgements: ""
           Answering. In: CVPR. (2018)</li>
       <li>Gordon, D., Kembhavi, A., Rastegari, M., Redmon, J., Fox, D., Farhadi, A.: IQA:
           Visual question answering in interactive environments. In: CVPR. (2018)</li>
-      <li>Richter, S., Vineet, V., Roth, S., Koltun, V.: Playing for Data: Ground Truth from 
+      <li>Richter, S., Vineet, V., Roth, S., Koltun, V.: Playing for Data: Ground Truth from
           Computer Games. In ECCV (2016).</li>
     </ol>
   </div>
