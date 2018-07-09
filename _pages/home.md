@@ -118,11 +118,13 @@ acknowledgements: ""
     </p>
     <p id="dates"> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6
       pages excluding references, acknowledgements, and supplementary material, and should be in the ECCV format.
-      Reviewing will be single blind. We also welcome published papers that are within the scope of the workshop (without re-formatting), although
-      these will not be eligible for spotlight presentation or awards (if any). Accepted extended abstracts will be made publicly
-      available as non-archival reports, allowing future submissions to archival conferences or journals. Please submit
+      Reviewing will be single blind. Accepted extended abstracts will be made publicly
+      available as non-archival reports, allowing future submissions to archival conferences or journals.
+      We also welcome published papers that are within the scope of the workshop (without re-formatting), including papers
+      from the main ECCV conference.  Please submit
       your Embodied Agents Track paper to the following address by the deadline:
       <span style="color:#1a1aff;font-weight:400;"><a href="mailto:embodiedagents@gmail.com">embodiedagents@gmail.com</a></span>.
+      Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
     </p>
 
   </div>
@@ -140,12 +142,20 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Paper Submission Deadline</td>
+          <td>Paper Submission Deadline - Visual Learning Track</td>
           <td>July 13th, 2018</td>
         </tr>
         <tr>
-          <td>Final Decisions</td>
+          <td>Final Decisions - Visual Learning Track</td>
           <td>July 31st, 2018</td>
+        </tr>
+        <tr>
+          <td>Paper Submission Deadline - Embodied Agents Track <span style="color:#e74c3c;font-weight:400;">(extended!)</span></td>
+          <td>July 31st, 2018</td>
+        </tr>
+        <tr>
+          <td>Final Decisions - Embodied Agents Track</td>
+          <td>August 8th, 2018</td>
         </tr>
         <tr>
           <td>Workshop Date</td>
