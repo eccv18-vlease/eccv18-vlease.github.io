@@ -94,7 +94,7 @@ acknowledgements: ""
     </p>
     <p> <span style="font-weight:500;">Submission:</span> All Visual Learning Track submissions will be handled
       electronically via the workshop <span style="color:#1a1aff;font-weight:400;"><a href="https://cmt3.research.microsoft.com/VLEASE2018">CMT website</a></span>.
-      Submissions to the Visual Learning Track should be between 4 and 14 pages in the ECCV format, excluding
+      Submissions to the Visual Learning Track should be between 4 and 14 pages in the <span style="color:#1a1aff;font-weight:400;"><a href="https://eccv2018.org/wp-content/uploads/2018/02/eccv2018kit.zip">ECCV format</a></span>, excluding
       references, acknowledgements, and supplementary materials. All the accepted submissions will be published
       separately from the main conference in the post-proceedings by default, though authors could indicate
       explicitly if they want to opt out the post-proceedings. Dual submission is allowed, but must be explicitly
@@ -117,7 +117,7 @@ acknowledgements: ""
       </ul>
     </p>
     <p id="dates"> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6
-      pages excluding references, acknowledgements, and supplementary material, and should be in the ECCV format.
+      pages excluding references, acknowledgements, and supplementary material, and should be in the <span style="color:#1a1aff;font-weight:400;"><a href="https://eccv2018.org/wp-content/uploads/2018/02/eccv2018kit.zip">ECCV format</a></span>.
       Reviewing will be single blind. Accepted extended abstracts will be made publicly
       available as non-archival reports, allowing future submissions to archival conferences or journals.
       We also welcome published papers that are within the scope of the workshop (without re-formatting), including papers
@@ -142,19 +142,12 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Paper Submission Deadline - Visual Learning Track</td>
-          <td>July 13th, 2018</td>
-        </tr>
-        <tr>
-          <td>Final Decisions - Visual Learning Track</td>
+          <td>Paper Submission Deadline
+          <span style="color:#e74c3c;font-weight:400;">(extended!)</span></td>
           <td>July 31st, 2018</td>
         </tr>
         <tr>
-          <td>Paper Submission Deadline - Embodied Agents Track <span style="color:#e74c3c;font-weight:400;">(extended!)</span></td>
-          <td>July 31st, 2018</td>
-        </tr>
-        <tr>
-          <td>Final Decisions - Embodied Agents Track</td>
+          <td>Final Decisions</td>
           <td>August 8th, 2018</td>
         </tr>
         <tr>
