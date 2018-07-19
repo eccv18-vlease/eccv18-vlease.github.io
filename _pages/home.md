@@ -116,8 +116,8 @@ acknowledgements: ""
         <li>Domain adaptation for embodied agents</li>
       </ul>
     </p>
-    <p id="dates"> <span style="font-weight:500;">Submission:</span> Submissions to the Embodied Agents Track should be up to 6
-      pages excluding references, acknowledgements, and supplementary material, and should be in the <span style="color:#1a1aff;font-weight:400;"><a href="https://eccv2018.org/wp-content/uploads/2018/02/eccv2018kit.zip">ECCV format</a></span>.
+    <p id="dates"> <span style="font-weight:500;">Submission:</span> For the Embodied Agents Track, we encourage 6
+      page submissions excluding references, acknowledgements, and supplementary material. The submission should be in the <span style="color:#1a1aff;font-weight:400;"><a href="https://eccv2018.org/wp-content/uploads/2018/02/eccv2018kit.zip">ECCV format</a></span>.
       Reviewing will be single blind. Accepted extended abstracts will be made publicly
       available as non-archival reports, allowing future submissions to archival conferences or journals.
       We also welcome published papers that are within the scope of the workshop (without re-formatting), including papers
