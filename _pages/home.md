@@ -265,17 +265,17 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/raquel.png" | prepend:site.baseurl }}">
-    <p><b>Raquel Urtasun</b> is the Head of Uber ATG Toronto. She is also an Associate Professor in the Department of Computer Science at the University of Toronto, a Canada Research Chair in Machine Learning and Computer Vision and a co-founder of the Vector Institute for AI. Prior to this, she was an Assistant Professor at the Toyota Technological Institute at Chicago (TTIC). Her research interests include machine learning, computer vision, robotics and remote sensing. &nbsp;
-    <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.toronto.edu/~urtasun/">Webpage</a>] </span></p>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/sanja.png" | prepend:site.baseurl }}">
+    <p><b>Sanja Fidler</b> is an Assistant Professor at University of Toronto. Her main research interests are 2D and 3D object detection, particularly scalable multi-class detection, object segmentation and image labeling, and (3D) scene understanding. She is also interested in the interplay between language and vision. &nbsp;
+    <span style="color:#1a1aff;font-weight:400;">[<a href="http://www.cs.utoronto.ca/~fidler/">Webpage</a>] </span></p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/dieter.png" | prepend:site.baseurl }}">
-    <p><b>Dieter Fox</b> is a Professor in the Department of Computer Science and Engineering at the University of Washington and also affiliated with Nvidia Research. His research interests are in robotics, artificial intelligence, and state estimation. The goal of his research is to enable systems to interact with people and their environment in an intelligent way. He is the head of the UW Robotics and State Estimation Lab RSE-Lab and the academic PI of the Intel Science and Technology Center for Pervasive Computing ISTC-PC. &nbsp;
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://homes.cs.washington.edu/~fox/">Webpage</a>]</span></p>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/boqing.png" | prepend:site.baseurl }}">
+    <p><b>Boqing Gong</b> is a Principal Researcher at Tencent AI Lab in Seattle, working on machine learning and computer vision. Before joining Tencent, he was a tenure-track Assistant Professor in University of Central Florida (UCF). He received a Ph.D. in Computer Science from the University of Southern California, where his work was partially supported by the Viterbi Fellowship. &nbsp;
+    <span style="color:#1a1aff;font-weight:400;">[<a href="http://boqinggong.info/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
