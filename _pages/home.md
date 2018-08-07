@@ -179,21 +179,21 @@ acknowledgements: ""
   <div class="col-xs-12">
     <ul>
       <li>08:45 AM : Welcome and Introduction</li>
-      <li>09:00 AM : Speaker 1</li>
-      <li>09:25 AM : Speaker 2</li>
-      <li>09:50 AM : Speaker 3</li>
-      <li>10:15 AM : Coffee + Posters/Demos (Visual Learning Track)</li>
-      <li>11:00 AM : Speaker 4</li>
-      <li>11:25 AM : Speaker 5</li>
+      <li>09:00 AM : Invited Talk: Peter Welinder</li>
+      <li>09:25 AM : Invited Talk: Alan Yuille</li>
+      <li>09:50 AM : Invited Talk: Sanja Fidler</li>
+      <li>10:15 AM : Coffee + Posters/Demos (Both Tracks)</li>
+      <li>11:00 AM : Invited Talk: Boqing Gong</li>
+      <li>11:25 AM : Invited Talk: Lawson Wong</li>
       <li>11:50 AM : Poster Spotlight Presentations (4 × 5 min)</li>
       <li>12:10 PM : Lunch</li>
-      <li>01:30 PM : Speaker 6</li>
-      <li>01:55 PM : Speaker 7</li>
-      <li>02:20 PM : Speaker 8</li>
-      <li>02:45 PM : Coffee + Posters/Demos (Embodied Agents Track)</li>
-      <li>03:30 PM : Speaker 9</li>
-      <li>03:55 PM : Speaker 10</li>
-      <li>04:20 PM : Speaker 11</li>
+      <li>01:30 PM : Invited Talk: Abhinav Gupta</li>
+      <li>01:55 PM : Invited Talk: Anton van den Hengel</li>
+      <li>02:20 PM : Invited Talk: Vladlen Koltun</li>
+      <li>02:45 PM : Coffee + Posters/Demos (Both Tracks)</li>
+      <li>03:30 PM : Invited Talk: Raia Hadsell</li>
+      <li>03:55 PM : Invited Talk: Dhruv Batra</li>
+      <li>04:20 PM : Invited Talk: Jitendra Malik</li>
       <li>04:45 PM : Panel Discussion</li>
       <li id="speakers">05:30 PM : Closing Remarks</li>
     </ul>
