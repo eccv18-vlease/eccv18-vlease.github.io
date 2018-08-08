@@ -319,7 +319,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="http://msavva.github.io/">Manolis Savva</a>
-      <h6>Princeton University</h6>
+      <h6>Facebook AI Research, Simon Fraser University</h6>
     </div>
   </div>
 
@@ -329,7 +329,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://angelxuanchang.github.io/">Angel X. Chang</a>
-      <h6>Princeton University</h6>
+      <h6>Eloquent Labs, Simon Fraser University</h6>
     </div>
   </div>
 
