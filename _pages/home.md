@@ -144,11 +144,11 @@ acknowledgements: ""
         <tr>
           <td>Paper Submission Deadline
           <span style="color:#e74c3c;font-weight:400;">(extended!)</span></td>
-          <td>July 31st, 2018</td>
+          <td><strike>July 31st, 2018</strike></td>
         </tr>
         <tr>
           <td>Final Decisions</td>
-          <td>August 8th, 2018</td>
+          <td><strike>August 8th, 2018</strike></td>
         </tr>
         <tr>
           <td>Workshop Date</td>
