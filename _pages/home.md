@@ -202,6 +202,83 @@ acknowledgements: ""
 
 <br>
 <div class="row">
+  <div class="col-md-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-12">
+  <h3><span style="font-weight:500;">Embodied Agents Track</span></h3><br>
+    <ol>
+      <li>
+        Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments -
+        <i>Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sunderhauf, Ian Reid, Stephen Gould, Anton van den Hengel</i> &nbsp;
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/vln.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Grounding Natural Language Instructions to Semantic Goal Representations for Abstraction and Generalization -
+        <i>Dilip Arumugam*, Siddharth Karamcheti*, Nakul Gopalan, Edward C. Williams, Mina Rhee Lawson, L.S. Wong, Stefanie Tellex</i> &nbsp;
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/grounding-nl-instructions.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Following High-level Navigation Instructions on a Simulated Quadcopter with Imitation Learning -
+        <i>Valts Blukis, Nataly Brukhim, Andrew Bennett, Ross A. Knepper, Yoav Artzi</i> &nbsp;
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/simulated-quadcopter.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Speaker-Follower Models for Vision-and-Language Navigation -
+        <i>Daniel Fried*, Ronghang Hu*, Volkan Cirik, Anna Rohrbach, Jacob Andreas, Louis-Philippe Morency, Taylor Berg-Kirkpatrick, Kate Saenko, Dan Klein**, Trevor Darrell**</i> &nbsp;
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/speaker-follower.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Deep Reinforcement Learning of an Agent in a Modern 3D Video Game -
+        <i>Samuel Arzt, Gerhard Mitterlechner, Markus Tatzgern, and Thomas Stutz</i> &nbsp;
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/drl-video-game.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Neural Modular Control for Embodied Question Answering -
+        <i>Abhishek Das, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra</i> &nbsp;
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/eqa-modular.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Building Generalizable Agents with a Realistic and Rich 3D Environment -
+        <i>Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian, Aviv Tamar, Stuart Russell</i> &nbsp;
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/house3D.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Learning a Semantic Prior for Guided Navigation -
+        <i>Yi Wu, Yuxin Wu, Georgia Gkioxari, Yuandong Tian</i> &nbsp;
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/learning-a-semantic-prior.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation -
+        <i>Xin Wang*, Wenhan Xiong**, Hongmin Wang, William Yang Wang</i>
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/look-before-you-leap.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Talk the Walk: Navigating New York City through Grounded Dialogue -
+        <i>Harm de Vries, Kurt Shuster, Dhruv Batra, Devi Parikh, Jason Weston & Douwe Kiela</i>
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/talk-walk-navigating.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+    </ol>
+
+    *, ** Equal contribution
+  </div>
+</div>
+
+<br>
+<div class="row">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
   </div>
