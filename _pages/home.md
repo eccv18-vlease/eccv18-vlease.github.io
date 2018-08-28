@@ -386,7 +386,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="http://www.panderson.me/">Peter Anderson</a>
-      <h6>Australian National University</h6>
+      <h6>Georgia Tech</h6>
     </div>
   </div>
 
