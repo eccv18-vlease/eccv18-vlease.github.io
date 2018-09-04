@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>Visual Learning and Embodied Agents in Simulation Environments</h1></center>
     <center><h2>ECCV 2018 Workshop, Munich, Germany</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      Sunday, 9th September, 08:45 AM to 06:00 PM, Room: TBD
+      Sunday, 9th September, 08:45 AM to 05:30 PM, Room: N1095ZG
     </span></center>
   </div>
 </div>
@@ -186,7 +186,8 @@ acknowledgements: ""
       <li>11:00 AM : Invited Talk: Boqing Gong</li>
       <li>11:25 AM : Invited Talk: Lawson Wong</li>
       <li>11:50 AM : Poster Spotlight Presentations (4 × 5 min)</li>
-      <li>12:10 PM : Lunch</li>
+      <li>12:10 PM : Environment Spotlight Presentations</li>
+      <li>12:30 PM : Lunch</li>
       <li>01:30 PM : Invited Talk: Abhinav Gupta</li>
       <li>01:55 PM : Invited Talk: Anton van den Hengel</li>
       <li>02:20 PM : Invited Talk: Vladlen Koltun</li>
@@ -195,7 +196,7 @@ acknowledgements: ""
       <li>03:55 PM : Invited Talk: Dhruv Batra</li>
       <li>04:20 PM : Invited Talk: Jitendra Malik</li>
       <li>04:45 PM : Panel Discussion</li>
-      <li id="speakers">05:30 PM : Closing Remarks</li>
+      <li id="speakers">05:30 PM : Close</li>
     </ul>
   </div>
 </div>
