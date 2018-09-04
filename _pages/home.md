@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>Visual Learning and Embodied Agents in Simulation Environments</h1></center>
     <center><h2>ECCV 2018 Workshop, Munich, Germany</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      Sunday, 9th September, 08:45 AM to 05:30 PM, Room: N1095ZG
+      Sunday, 9th September, 08:45 AM to 05:30 PM, Room: <span style="color:#1a1aff;font-weight:400;"> <a href="https://www.ph.tum.de/about/visit/roomfinder/?room=0101.01.095">N1095ZG</a></span> at TU München
     </span></center>
   </div>
 </div>
