@@ -271,6 +271,19 @@ acknowledgements: ""
         <i>Harm de Vries, Kurt Shuster, Dhruv Batra, Devi Parikh, Jason Weston & Douwe Kiela</i>
         <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/talk-walk-navigating.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
       </li>
+
+      <li>
+        MINOS: Multimodal Indoor Simulator for Navigation in Complex Environments -
+        <i>Manolis Savva, Angel X. Chang, Alexey Dosovitskiy, Thomas Funkhouser, Vladlen Koltun</i>
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/minos.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
+      <li>
+        Gibson Env: Real-World Perception for Embodied Agents -
+        <i>Fei Xia*, Amir R. Zamir*, Zhiyang He*, Alexander Sax, Jitendra Malik, Silvio Savarese</i>
+        <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/gibson.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+      </li>
+
     </ol>
 
     *, ** Equal contribution
