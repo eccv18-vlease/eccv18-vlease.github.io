@@ -211,6 +211,28 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-md-12">
+  <h3><span style="font-weight:500;">Visual Learning Track</span></h3><br>
+  <ol>
+    <li>
+      Modeling Camera Effects to Improve Visual Learning from Synthetic Data -
+      <i>Alexandra K Carlson, Katherine A Skinner, Matthew Johnson Roberson</i>
+    </li>
+    <li>
+      Adversarial Attacks Beyond the Image Space -
+      <i>Xiaohui Zeng, Chenxi Liu, Yu-Siang Wang, Weichao Qiu, Lingxi Xie, Yu-Wing Tai, Chi-Keung Tang, Alan Yuille</i>
+    </li>
+    <li>
+      Answering Visual What-If Questions: From Actions to Predicted Scene Descriptions -
+      <i>Hector Basevi, Misha Wagner, Rakshith Shetty, Wenbin Li, Mateusz Malinowski, Mario Fritz, Ales Leonardis</i>
+    </li>
+    <li>
+      Visual Representations for Semantic Target Driven Navigation -
+      <i>Arsalan Mousavian, Alexander Toshev, Marek Fiser, Jana Kosecka,, James Davidson</i>
+    </li>
+  </ol>
+  </div>
+
+  <div class="col-md-12">
   <h3><span style="font-weight:500;">Embodied Agents Track</span></h3><br>
     <ol>
       <li>
