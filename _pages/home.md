@@ -188,7 +188,7 @@ acknowledgements: ""
       <li>11:50 AM : Poster Spotlight Presentations (4 × 5 min)</li>
       <li>12:10 PM : Environment Spotlight Presentations</li>
       <li>12:30 PM : Lunch</li>
-      <li>01:30 PM : Invited Talk: Abhinav Gupta</li>
+      <li>01:30 PM : Invited Talk: Abhinav Gupta - The Battle of  &lt;slow&gt; Real vs. &lt;faster&gt; Fake [an alternative view] </li>
       <li>01:55 PM : Invited Talk: Anton van den Hengel</li>
       <li>02:20 PM : Invited Talk: Vladlen Koltun</li>
       <li>02:45 PM : Coffee + Posters/Demos (Both Tracks)</li>
