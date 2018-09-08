@@ -179,13 +179,18 @@ acknowledgements: ""
   <div class="col-xs-12">
     <ul>
       <li>08:45 AM : Welcome and Introduction</li>
-      <li>09:00 AM : Invited Talk: Peter Welinder (Learning dexterity)</li>
-      <li>09:25 AM : Invited Talk: Alan Yuille (When Big Datasets are not Enough : The Need for Virtual Visual Worlds)</li>
-      <li>09:50 AM : Invited Talk: Sanja Fidler</li>
-      <li>10:15 AM : Coffee + Posters/Demos (Both Tracks)</li>
-      <li>11:00 AM : Invited Talk: Boqing Gong (Domain Adaptation and Transfer: All You Need to Use Simulation "for Real")</li>
-      <li>11:25 AM : Invited Talk: Lawson Wong</li>
-      <li>11:50 AM : Poster Spotlight Presentations
+      <li style="margin-top: 10px;">09:00 AM : Invited Talk: Peter Welinder
+        <ul><li>Learning dexterity</li></ul>
+      </li>
+      <li style="margin-top: 10px;">09:25 AM : Invited Talk: Alan Yuille
+        <ul><li>When Big Datasets are not Enough : The Need for Virtual Visual Worlds</li></ul></li>
+      <li style="margin-top: 10px;">09:50 AM : Invited Talk: Sanja Fidler</li>
+      <li style="margin-top: 10px;">10:15 AM : Coffee + Posters/Demos (Both Tracks)</li>
+      <li style="margin-top: 10px;">11:00 AM : Invited Talk: Boqing Gong
+        <ul><li>Domain Adaptation and Transfer: All You Need to Use Simulation "for Real"</li></ul>
+      </li>
+      <li style="margin-top: 10px;">11:25 AM : Invited Talk: Lawson Wong</li>
+      <li style="margin-top: 10px;">11:50 AM : Poster Spotlight Presentations
         <ul>
         <li>
           Visual Representations for Semantic Target Driven Navigation -
@@ -202,7 +207,7 @@ acknowledgements: ""
         </li>
         </ul>
       </li>
-      <li>12:05 PM : Environment Spotlight Presentations</li>
+      <li style="margin-top: 10px;">12:05 PM : Environment Spotlight Presentations</li>
         <ul>
           <li><a href="https://home-platform.github.io/">HoME</a></li>
           <li><a href="http://gibsonenv.stanford.edu/">Gibson</a></li>
@@ -211,16 +216,24 @@ acknowledgements: ""
           <li><a href="https://github.com/minosworld/minos">MINOS</a></li>
           <li><a href="https://bringmeaspoon.org/">Matterport3D Sim</a></li>
         </ul>
-      <li>12:30 PM : Lunch</li>
-      <li>01:30 PM : Invited Talk: Abhinav Gupta (The Battle of  (Slow) Real vs. (Faster) Fake : An Alternative View) </li>
-      <li>01:55 PM : Invited Talk: Anton van den Hengel</li>
-      <li>02:20 PM : Invited Talk: Vladlen Koltun (Learning to Navigate)</li>
-      <li>02:45 PM : Coffee + Posters/Demos (Both Tracks)</li>
-      <li>03:30 PM : Invited Talk: Raia Hadsell (Learning to Navigate)</li>
-      <li>03:55 PM : Invited Talk: Dhruv Batra (A-STAR: Agents that See, Talk, Act and Reason)</li>
-      <li>04:20 PM : Invited Talk: Jitendra Malik</li>
-      <li>04:45 PM : Panel Discussion (All Invited Speakers)</li>
-      <li>05:30 PM : Close</li>
+      <li style="margin-top: 10px;">12:30 PM : Lunch</li>
+      <li style="margin-top: 10px;">01:30 PM : Invited Talk: Abhinav Gupta
+        <ul><li>The Battle of  (Slow) Real vs. (Faster) Fake : An Alternative View) </li></ul>
+      </li>
+      <li style="margin-top: 10px;">01:55 PM : Invited Talk: Anton van den Hengel</li>
+      <li style="margin-top: 10px;">02:20 PM : Invited Talk: Vladlen Koltun
+        <ul><li>Learning to Navigate</li></ul>
+      </li>
+      <li style="margin-top: 10px;">02:45 PM : Coffee + Posters/Demos (Both Tracks)</li>
+      <li style="margin-top: 10px;">03:30 PM : Invited Talk: Raia Hadsell
+        <ul><li>Learning to Navigate</li></ul>
+      </li>
+      <li style="margin-top: 10px;">03:55 PM : Invited Talk: Dhruv Batra
+        <ul><li>A-STAR: Agents that See, Talk, Act and Reason</li></ul>
+      </li>
+      <li style="margin-top: 10px;">04:20 PM : Invited Talk: Jitendra Malik</li>
+      <li style="margin-top: 10px;">04:45 PM : Panel Discussion (All Invited Speakers)</li>
+      <li style="margin-top: 10px;">05:30 PM : Close</li>
     </ul>
   </div>
 </div>
