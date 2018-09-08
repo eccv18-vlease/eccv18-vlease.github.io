@@ -205,7 +205,7 @@ acknowledgements: ""
       <li>12:10 PM : Environment Spotlight Presentations</li>
         <ul>
           <li><a href="https://home-platform.github.io/">HoME</a></li>
-          <li><a href="https://home-platform.github.io/">Gibson</a></li>
+          <li><a href="http://gibsonenv.stanford.edu/">Gibson</a></li>
           <li><a href="https://ai2thor.allenai.org/">AI2-THOR</a></li>
           <li><a href="https://github.com/clic-lab/chalet">CHALET</a></li>
           <li><a href="https://github.com/minosworld/minos">MINOS</a></li>
