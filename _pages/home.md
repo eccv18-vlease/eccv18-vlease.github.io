@@ -185,7 +185,23 @@ acknowledgements: ""
       <li>10:15 AM : Coffee + Posters/Demos (Both Tracks)</li>
       <li>11:00 AM : Invited Talk: Boqing Gong (Domain Adaptation and Transfer: All You Need to Use Simulation "for Real")</li>
       <li>11:25 AM : Invited Talk: Lawson Wong</li>
-      <li>11:50 AM : Poster Spotlight Presentations (4 × 5 min)</li>
+      <li>11:50 AM : Poster Spotlight Presentations
+        <ul>
+        <li>
+          Visual Representations for Semantic Target Driven Navigation -
+          <i>Arsalan Mousavian, Alexander Toshev, Marek Fiser, Jana Kosecka,, James Davidson</i>
+        </li>
+        <li>
+          Answering Visual What-If Questions: From Actions to Predicted Scene Descriptions -
+          <i>Hector Basevi, Misha Wagner, Rakshith Shetty, Wenbin Li, Mateusz Malinowski, Mario Fritz, Ales Leonardis</i>
+        </li>
+        <li>
+          Talk the Walk: Navigating New York City through Grounded Dialogue -
+          <i>Harm de Vries, Kurt Shuster, Dhruv Batra, Devi Parikh, Jason Weston & Douwe Kiela</i>
+          <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/talk-walk-navigating.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
+        </li>
+        </ul>
+      </li>
       <li>12:10 PM : Environment Spotlight Presentations</li>
       <li>12:30 PM : Lunch</li>
       <li>01:30 PM : Invited Talk: Abhinav Gupta (The Battle of  (Slow) Real vs. (Faster) Fake : An Alternative View) </li>
