@@ -203,6 +203,14 @@ acknowledgements: ""
         </ul>
       </li>
       <li>12:10 PM : Environment Spotlight Presentations</li>
+        <ul>
+          <li><a href="https://home-platform.github.io/">HoME</a></li>
+          <li><a href="https://home-platform.github.io/">Gibson</a></li>
+          <li><a href="https://ai2thor.allenai.org/">AI2-THOR</a></li>
+          <li><a href="https://github.com/clic-lab/chalet">CHALET</a></li>
+          <li><a href="https://github.com/minosworld/minos">MINOS</a></li>
+          <li><a href="https://bringmeaspoon.org/">Matterport3D Sim</a></li>
+        </ul>
       <li>12:30 PM : Lunch</li>
       <li>01:30 PM : Invited Talk: Abhinav Gupta (The Battle of  (Slow) Real vs. (Faster) Fake : An Alternative View) </li>
       <li>01:55 PM : Invited Talk: Anton van den Hengel</li>
@@ -211,7 +219,7 @@ acknowledgements: ""
       <li>03:30 PM : Invited Talk: Raia Hadsell (Learning to Navigate)</li>
       <li>03:55 PM : Invited Talk: Dhruv Batra (A-STAR: Agents that See, Talk, Act and Reason)</li>
       <li>04:20 PM : Invited Talk: Jitendra Malik</li>
-      <li>04:45 PM : Panel Discussion</li>
+      <li>04:45 PM : Panel Discussion (All Invited Speakers)</li>
       <li id="speakers">05:30 PM : Close</li>
     </ul>
   </div>
