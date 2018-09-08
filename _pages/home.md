@@ -356,7 +356,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/dhruv.png" | prepend:site.baseurl }}">
     <p><b>Dhruv Batra</b> is an Assistant Professor in the School of Interactive Computing at Georgia Tech and a Research Scientist at Facebook AI Research (FAIR). His research interests lie at the intersection of machine learning, computer vision, natural language processing, and AI. He is a recipient of numerous awards including the Office of Naval Research (ONR) Young Investigator Program (YIP) award (2016), two Google Faculty Research Awards (2013, 2015) and the Amazon Academic Research award (2016). &nbsp;
-    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.cc.gatech.edu/~parikh/">Webpage</a>]</span></p>
+    <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.cc.gatech.edu/~dbatra/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
