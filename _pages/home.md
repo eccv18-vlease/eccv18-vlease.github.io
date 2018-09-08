@@ -192,7 +192,7 @@ acknowledgements: ""
       <li>01:55 PM : Invited Talk: Anton van den Hengel</li>
       <li>02:20 PM : Invited Talk: Vladlen Koltun</li>
       <li>02:45 PM : Coffee + Posters/Demos (Both Tracks)</li>
-      <li>03:30 PM : Invited Talk: Raia Hadsell</li>
+      <li>03:30 PM : Invited Talk: Raia Hadsell (Learning to Navigate)</li>
       <li>03:55 PM : Invited Talk: Dhruv Batra (A-STAR: Agents that See, Talk, Act and Reason)</li>
       <li>04:20 PM : Invited Talk: Jitendra Malik</li>
       <li>04:45 PM : Panel Discussion</li>
