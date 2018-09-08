@@ -180,7 +180,7 @@ acknowledgements: ""
     <ul>
       <li>08:45 AM : Welcome and Introduction</li>
       <li>09:00 AM : Invited Talk: Peter Welinder (Learning dexterity)</li>
-      <li>09:25 AM : Invited Talk: Alan Yuille</li>
+      <li>09:25 AM : Invited Talk: Alan Yuille (When Big Datasets are not Enough : The Need for Virtual Visual Worlds)</li>
       <li>09:50 AM : Invited Talk: Sanja Fidler</li>
       <li>10:15 AM : Coffee + Posters/Demos (Both Tracks)</li>
       <li>11:00 AM : Invited Talk: Boqing Gong (Domain Adaptation and Transfer: All You Need to Use Simulation "for Real")</li>
@@ -206,7 +206,7 @@ acknowledgements: ""
       <li>12:30 PM : Lunch</li>
       <li>01:30 PM : Invited Talk: Abhinav Gupta (The Battle of  (Slow) Real vs. (Faster) Fake : An Alternative View) </li>
       <li>01:55 PM : Invited Talk: Anton van den Hengel</li>
-      <li>02:20 PM : Invited Talk: Vladlen Koltun</li>
+      <li>02:20 PM : Invited Talk: Vladlen Koltun (Learning to Navigate)</li>
       <li>02:45 PM : Coffee + Posters/Demos (Both Tracks)</li>
       <li>03:30 PM : Invited Talk: Raia Hadsell (Learning to Navigate)</li>
       <li>03:55 PM : Invited Talk: Dhruv Batra (A-STAR: Agents that See, Talk, Act and Reason)</li>
