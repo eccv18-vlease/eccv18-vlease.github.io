@@ -189,15 +189,15 @@ acknowledgements: ""
         <ul>
         <li>
           Visual Representations for Semantic Target Driven Navigation -
-          <i>Arsalan Mousavian, Alexander Toshev, Marek Fiser, Jana Kosecka,, James Davidson</i>
+          <i>Arsalan Mousavian et al.</i>
         </li>
         <li>
           Answering Visual What-If Questions: From Actions to Predicted Scene Descriptions -
-          <i>Hector Basevi, Misha Wagner, Rakshith Shetty, Wenbin Li, Mateusz Malinowski, Mario Fritz, Ales Leonardis</i>
+          <i>Hector Basevi et al.</i>
         </li>
         <li>
           Talk the Walk: Navigating New York City through Grounded Dialogue -
-          <i>Harm de Vries, Kurt Shuster, Dhruv Batra, Devi Parikh, Jason Weston & Douwe Kiela</i>
+          <i>Harm de Vries et al.</i>
           <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/talk-walk-navigating.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
         </li>
         </ul>
