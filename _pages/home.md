@@ -202,7 +202,7 @@ acknowledgements: ""
         </li>
         </ul>
       </li>
-      <li>12:10 PM : Environment Spotlight Presentations</li>
+      <li>12:05 PM : Environment Spotlight Presentations</li>
         <ul>
           <li><a href="https://home-platform.github.io/">HoME</a></li>
           <li><a href="http://gibsonenv.stanford.edu/">Gibson</a></li>
