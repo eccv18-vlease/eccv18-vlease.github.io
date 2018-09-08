@@ -220,7 +220,7 @@ acknowledgements: ""
       <li>03:55 PM : Invited Talk: Dhruv Batra (A-STAR: Agents that See, Talk, Act and Reason)</li>
       <li>04:20 PM : Invited Talk: Jitendra Malik</li>
       <li>04:45 PM : Panel Discussion (All Invited Speakers)</li>
-      <li id="speakers">05:30 PM : Close</li>
+      <li>05:30 PM : Close</li>
     </ul>
   </div>
 </div>
@@ -325,7 +325,7 @@ acknowledgements: ""
         <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/minos.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
       </li>
 
-      <li>
+      <li id="speakers">
         Gibson Env: Real-World Perception for Embodied Agents -
         <i>Fei Xia*, Amir R. Zamir*, Zhiyang He*, Alexander Sax, Jitendra Malik, Silvio Savarese</i>
         <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/papers/gibson.pdf" | prepend:site.baseurl }}">pdf</a>]</span>
