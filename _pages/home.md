@@ -189,7 +189,9 @@ acknowledgements: ""
       <li style="margin-top: 10px;">11:00 AM : Invited Talk: Boqing Gong
         <ul><li>Domain Adaptation and Transfer: All You Need to Use Simulation "for Real"</li></ul>
       </li>
-      <li style="margin-top: 10px;">11:25 AM : Invited Talk: Lawson Wong</li>
+      <li style="margin-top: 10px;">11:25 AM : Invited Talk: Lawson Wong
+        <ul><li>Grounding Natural Language Instructions to Robot Behavior: A Goal-Directed View</li></ul>
+      </li>
       <li style="margin-top: 10px;">11:50 AM : Poster Spotlight Presentations
         <ul>
         <li>
