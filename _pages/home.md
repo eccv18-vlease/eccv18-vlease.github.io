@@ -180,14 +180,22 @@ acknowledgements: ""
     <ul>
       <li>08:45 AM : Welcome and Introduction</li>
       <li style="margin-top: 10px;">09:00 AM : Invited Talk: Peter Welinder
-        <ul><li>Learning dexterity</li></ul>
+        <ul>
+          <li>
+          Learning dexterity <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/slides/peter.pdf" | prepend:site.baseurl }}">slides</a>]</span>
+          </li>
+        </ul>
       </li>
       <li style="margin-top: 10px;">09:25 AM : Invited Talk: Alan Yuille
         <ul><li>When Big Datasets are not Enough : The Need for Virtual Visual Worlds</li></ul></li>
       <li style="margin-top: 10px;">09:50 AM : Invited Talk: Sanja Fidler</li>
       <li style="margin-top: 10px;">10:15 AM : Coffee + Posters/Demos (Both Tracks)</li>
       <li style="margin-top: 10px;">11:00 AM : Invited Talk: Boqing Gong
-        <ul><li>Domain Adaptation and Transfer: All You Need to Use Simulation "for Real"</li></ul>
+        <ul>
+          <li>
+          Domain Adaptation and Transfer: All You Need to Use Simulation "for Real" <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/slides/boqing.pdf" | prepend:site.baseurl }}">slides</a>]</span>
+          </li>
+        </ul>
       </li>
       <li style="margin-top: 10px;">11:25 AM : Invited Talk: Lawson Wong
         <ul><li>Grounding Natural Language Instructions to Robot Behavior: A Goal-Directed View</li></ul>
@@ -224,7 +232,11 @@ acknowledgements: ""
       </li>
       <li style="margin-top: 10px;">01:55 PM : Invited Talk: Anton van den Hengel</li>
       <li style="margin-top: 10px;">02:20 PM : Invited Talk: Vladlen Koltun
-        <ul><li>Learning to Navigate</li></ul>
+        <ul>
+          <li>
+            Learning to Navigate <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/slides/vladlen.pdf" | prepend:site.baseurl }}">slides</a>]</span>
+          </li>
+        </ul>
       </li>
       <li style="margin-top: 10px;">02:45 PM : Coffee + Posters/Demos (Both Tracks)</li>
       <li style="margin-top: 10px;">03:30 PM : Invited Talk: Raia Hadsell
