@@ -198,7 +198,11 @@ acknowledgements: ""
         </ul>
       </li>
       <li style="margin-top: 10px;">11:25 AM : Invited Talk: Lawson Wong
-        <ul><li>Grounding Natural Language Instructions to Robot Behavior: A Goal-Directed View</li></ul>
+        <ul>
+          <li>
+          Grounding Natural Language Instructions to Robot Behavior: A Goal-Directed View <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/slides/lawson.pdf" | prepend:site.baseurl }}">slides</a>]</span>
+          </li>
+        </ul>
       </li>
       <li style="margin-top: 10px;">11:50 AM : Poster Spotlight Presentations
         <ul>
