@@ -187,7 +187,12 @@ acknowledgements: ""
         </ul>
       </li>
       <li style="margin-top: 10px;">09:25 AM : Invited Talk: Alan Yuille
-        <ul><li>When Big Datasets are not Enough : The Need for Virtual Visual Worlds</li></ul></li>
+        <ul>
+          <li>
+          When Big Datasets are not Enough : The Need for Virtual Visual Worlds <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/slides/alan.pdf" | prepend:site.baseurl }}">slides</a>]</span>
+          </li>
+        </ul>
+      </li>
       <li style="margin-top: 10px;">09:50 AM : Invited Talk: Sanja Fidler</li>
       <li style="margin-top: 10px;">10:15 AM : Coffee + Posters/Demos (Both Tracks)</li>
       <li style="margin-top: 10px;">11:00 AM : Invited Talk: Boqing Gong
