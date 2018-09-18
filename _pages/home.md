@@ -237,9 +237,15 @@ acknowledgements: ""
         </ul>
       <li style="margin-top: 10px;">12:30 PM : Lunch</li>
       <li style="margin-top: 10px;">01:30 PM : Invited Talk: Abhinav Gupta
-        <ul><li>The Battle of  (Slow) Real vs. (Faster) Fake : An Alternative View) </li></ul>
+        <ul><li>The Battle of  (Slow) Real vs. (Faster) Fake : An Alternative View</li></ul>
       </li>
-      <li style="margin-top: 10px;">01:55 PM : Invited Talk: Anton van den Hengel</li>
+      <li style="margin-top: 10px;">01:55 PM : Invited Talk: Anton van den Hengel
+      <ul>
+        <li>
+        Problems with open set Vision and Language problems <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/slides/anton.pptx" | prepend:site.baseurl }}">slides</a>]</span>
+        </li>
+      </ul>
+      </li>
       <li style="margin-top: 10px;">02:20 PM : Invited Talk: Vladlen Koltun
         <ul>
           <li>
