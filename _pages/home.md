@@ -255,7 +255,11 @@ acknowledgements: ""
       </li>
       <li style="margin-top: 10px;">02:45 PM : Coffee + Posters/Demos (Both Tracks)</li>
       <li style="margin-top: 10px;">03:30 PM : Invited Talk: Raia Hadsell
-        <ul><li>Learning to Navigate</li></ul>
+        <ul>
+          <li>
+          Learning to Navigate <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/slides/raia.pdf" | prepend:site.baseurl }}">slides</a>]</span>
+          </li>
+        </ul>
       </li>
       <li style="margin-top: 10px;">03:55 PM : Invited Talk: Dhruv Batra
         <ul><li>A-STAR: Agents that See, Talk, Act and Reason</li></ul>
