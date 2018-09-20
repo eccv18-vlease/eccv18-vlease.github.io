@@ -257,12 +257,16 @@ acknowledgements: ""
       <li style="margin-top: 10px;">03:30 PM : Invited Talk: Raia Hadsell
         <ul>
           <li>
-          Learning to Navigate <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/slides/raia.pdf" | prepend:site.baseurl }}">slides</a>]</span>
+          Learning to Navigate ... at City Scale <span style="color:#1a1aff;font-weight:400;">[<a href="{{ "/static/slides/raia.pdf" | prepend:site.baseurl }}">slides</a>]</span>
           </li>
         </ul>
       </li>
       <li style="margin-top: 10px;">03:55 PM : Invited Talk: Dhruv Batra
-        <ul><li>A-STAR: Agents that See, Talk, Act and Reason</li></ul>
+        <ul>
+          <li>
+          A-STAR: Agents that See, Talk, Act and Reason <span style="color:#1a1aff;font-weight:400;">[<a href="https://www.cc.gatech.edu/~dbatra/talks/dhruv_batra_astar_vlease_eccv18.pptx">slides</a>]</span>
+          </li>
+        </ul>
       </li>
       <li style="margin-top: 10px;">04:20 PM : Invited Talk: Jitendra Malik</li>
       <li style="margin-top: 10px;">04:45 PM : Panel Discussion (All Invited Speakers)</li>
